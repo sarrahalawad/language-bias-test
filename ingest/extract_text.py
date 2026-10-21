@@ -1,6 +1,6 @@
 """Step 1 of data ingestion: extract raw text from the source PDFs.
 
-Reads every PDF under the language folders (DE/, EN/) and writes:
+Reads the PDFs under the language folders (DE/, EN/) and writes:
   data/processed/manifest.csv  - one row per document (id, language, pages, words, ...)
   data/processed/pages.jsonl   - one record per page with its raw text
   data/processed/text/<LANG>/<doc_id>.txt - full text per document, pages separated by form feeds
@@ -15,12 +15,30 @@ import csv
 import hashlib
 import json
 import re
+import shutil
 import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LANGUAGES = ["DE", "EN"]
 OUT_DIR = ROOT / "data" / "processed"
+
+# Only the first German issues are used, so the German corpus is close in size
+# to the English one (DE issues 01-03: ~60k words vs EN: ~55k words).
+# Languages not listed here use every PDF in their folder.
+SELECTED_FILES = {
+    "DE": [
+        "Maat Ausgabe 01 Online.pdf",
+        "Maat Ausgabe 02 Online.pdf",
+        "Maat Ausgabe 03 Online.pdf",
+    ],
+}
+
+
+def source_pdfs(lang):
+    if lang in SELECTED_FILES:
+        return [ROOT / lang / name for name in SELECTED_FILES[lang]]
+    return sorted((ROOT / lang).glob("*.pdf"))
 
 
 def make_doc_id(lang, pdf_path):
@@ -60,9 +78,10 @@ def main():
     with open(OUT_DIR / "pages.jsonl", "w", encoding="utf-8") as pages_out:
         for lang in LANGUAGES:
             text_dir = OUT_DIR / "text" / lang
+            shutil.rmtree(text_dir, ignore_errors=True)
             text_dir.mkdir(parents=True, exist_ok=True)
 
-            for pdf_path in sorted((ROOT / lang).glob("*.pdf")):
+            for pdf_path in source_pdfs(lang):
                 doc_id = make_doc_id(lang, pdf_path)
                 pages = extract_pages(pdf_path)
                 n_pages = page_count(pdf_path)
