@@ -3,6 +3,9 @@
 Reads the PDFs under the language folders (DE/, EN/) and writes:
   data/processed/manifest.csv  - one row per document (id, language, pages, words, ...)
   data/processed/pages.jsonl   - one record per page with its raw text
+
+Text is extracted in content-stream order (`pdftotext -raw`), which keeps
+two-column layouts in reading order.
   data/processed/text/<LANG>/<doc_id>.txt - full text per document, pages separated by form feeds
 
 Requires poppler's `pdftotext` and `pdfinfo` on PATH.
@@ -53,7 +56,7 @@ def page_count(pdf_path):
 
 def extract_pages(pdf_path):
     text = subprocess.run(
-        ["pdftotext", "-enc", "UTF-8", str(pdf_path), "-"],
+        ["pdftotext", "-raw", "-enc", "UTF-8", str(pdf_path), "-"],
         capture_output=True, text=True, check=True,
     ).stdout
     pages = text.split("\f")

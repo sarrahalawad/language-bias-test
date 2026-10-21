@@ -1,83 +1,68 @@
-Journal of Social Archaeology
 http://jsa.sagepub.com
-
-Burial and the dead in ancient Egyptian society: Respect, formalism,
-neglect
-John Baines and Peter Lacovara
-Journal of Social Archaeology 2002; 2; 5
+Journal of Social Archaeology
 DOI: 10.1177/1469605302002001595
-The online version of this article can be found at:
+2002; 2; 5
+Journal of Social Archaeology
+John Baines and Peter Lacovara
+neglect
+Burial and the dead in ancient Egyptian society: Respect, formalism,
 http://jsa.sagepub.com/cgi/content/abstract/2/1/5
-
+The online version of this article can be found at:
 Published by:
 http://www.sagepublications.com
-
-Additional services and information for Journal of Social Archaeology can be found at:
-Email Alerts: http://jsa.sagepub.com/cgi/alerts
-Subscriptions: http://jsa.sagepub.com/subscriptions
-Reprints: http://www.sagepub.com/journalsReprints.nav
-Permissions: http://www.sagepub.co.uk/journalsPermissions.nav
-Citations http://jsa.sagepub.com/cgi/content/refs/2/1/5
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 5
-
+can be found at:
 Journal of Social Archaeology
-
-ARTICLE
-
-Copyright © 2002 SAGE Publications (London, Thousand Oaks, CA and New Delhi)
-Vol 2(1): 5–36 [1469-6053(200202)2:1;5–36;020595]
-
+Additional services and information for
+http://jsa.sagepub.com/cgi/alerts
+Email Alerts:
+http://jsa.sagepub.com/subscriptions
+Subscriptions:
+http://www.sagepub.com/journalsReprints.nav
+Reprints:
+http://www.sagepub.co.uk/journalsPermissions.nav
+Permissions:
+http://jsa.sagepub.com/cgi/content/refs/2/1/5
+Citations
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+Copyright © 2002 SAGE Publications (London,Thousand Oaks,CA and New Delhi)
+Vol 2(1):5–36 [1469-6053(200202)2:1;5–36;020595]
+Journal of Social Archaeology A R T I C L E
+5
 Burial and the dead in ancient Egyptian
 society
-Respect, formalism, neglect
+Respect,formalism,neglect
 JOHN BAINES
-Faculty of Oriental Studies, University of Oxford
-
+Faculty of Oriental Studies,University of Oxford
 PETER LACOVARA
-Michael C. Carlos Museum, Emory University
-
+Michael C.Carlos Museum,Emory University
 ABSTRACT
-Ancient Egypt offers a paradigm contrast between ideals of respectful care for the dead, on the one hand, and realities of medium- and
+Ancient Egypt offers a paradigm contrast between ideals of respect-
+ful care for the dead, on the one hand, and realities of medium- and
 long-term neglect, destruction and reuse on the other. Ideals are
 expressed in normative mortuary monuments and in texts; the
-archaeological record, together with relatively few skeptical texts, testifies to realities. Death was as socially riven as the realm of the living.
+archaeological record, together with relatively few skeptical texts, tes-
+tifies to realities. Death was as socially riven as the realm of the living.
 Vast amounts were invested in royal and elite monuments, while
 cemeteries as a whole cannot account for more than a fraction of the
 population. Preservation of the body was essential for conventional
 conceptions of an afterlife – often envisaged to take place away from
 the tomb – but embalming practices cannot have been required for all.
-The contradictions implied by divergences from the ideal were negotiated over very long periods. Such processes of accommodation may
-
-5
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-6
-
-8/1/02
-
-1:05 pm
-
-Page 6
-
-Journal of Social Archaeology 2(1)
-
+The contradictions implied by divergences from the ideal were nego-
+tiated over very long periods. Such processes of accommodation may
+01 Baines (JG/d) 8/1/02 1:05 pm Page 5
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+6 Journal of Social Archaeology 2(1)
 be particularly necessary in complex societies and civilizations. They
 emphasize that, even if the actors may present the matter otherwise,
 treatment of the dead relates as much to the living as to the deceased.
-KEY WORDS
-ancient Egypt • cemeteries • death • mausoleum • mortuary • mummification • respect for the dead • restoration • ritual • tombs, destruction of
-
+KEYWORDS
+ancient Egypt • cemeteries • death • mausoleum • mortuary • mum-
+mification • respect for the dead • restoration • ritual • tombs, destruc-
+tion of
 ■ INTRODUCTION
 The ancient Egyptian ideal was that in death people should be buried in a
 splendid and everlasting tomb that supplied a visible memorial to them.
@@ -100,59 +85,21 @@ the imperfections and compromises of reality, as well as tensions and
 possible differences in mortuary beliefs. Although a mass of data about
 mortuary practices survives from Egypt and belief in an afterlife is well
 established, relatively little textual evidence relates directly to the attitudes
-of living society toward death and the dead themselves, as against presenting rather uninformative mortuary formulae containing little that is personal or reflective (Baines, 1999); the archaeological record too is not
-eloquent here. In contrast with the respectful ideal, the reality of destruction, disregard and oblivion may fit better with negative attitudes found in
+of living society toward death and the dead themselves, as against present-
+ing rather uninformative mortuary formulae containing little that is per-
+sonal or reflective (Baines, 1999); the archaeological record too is not
+eloquent here. In contrast with the respectful ideal, the reality of destruc-
+tion, disregard and oblivion may fit better with negative attitudes found in
 less public and unofficial sources (e.g. Gardiner, 1935; Posener, 1988). Some
-gaps in the published record are due to inadequate recording and publication; traditional excavations were seldom designed to address these questions. The Nile Delta is poorly known, much of it lacking the adjacent low
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 7
-
-Baines & Lacovara
-
-Table 1
-
-Burial and the dead in ancient Egyptian society
-
-Chronological table for historical periods in Ancient Egypt
-
-Predynastic period
-Early Dynastic Period (Dynasties 1–3)
-Old Kingdom (Dynasties 4–8)
-First Intermediate Period (Dynasties 9–11)
-Middle Kingdom (Dynasties 11–13)
-Second Intermediate Period (Dynasties 14–17)
-New Kingdom (Dynasties 18–20)
-Third Intermediate Period (Dynasties 21–25)
-Late Period (Dynasties 26–31)
-Ptolemaic period
-Roman period
-Christian period
-Muslim conquest
-
-4800–2950 BCE
-2950–2575
-2575–2150
-2150–1975
-1975–1640
-1640–1525
-1525–1075
-1075–656
-664–332
-332–30
-30 BCE–395 CE
-3rd–10th century
-641
-
-Note: Figures before 664 are approximate. Overlaps are deliberate.
-
+gaps in the published record are due to inadequate recording and publi-
+cation; traditional excavations were seldom designed to address these ques-
+tions. The Nile Delta is poorly known, much of it lacking the adjacent low
+01 Baines (JG/d) 8/1/02 1:05 pm Page 6
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+7
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 desert, where most known Nile Valley burials were sited. Differences in
 terrain may have favored differences in burial practices.
 Sparse indications, notably in texts, suggest that Egyptian culture was not
@@ -161,9 +108,9 @@ to death and the dead were as contradictory as in many societies. In order
 to address ideas and practices that lie on the edge of the normative ancient
 ideology, it is necessary to combine theoretical arguments with scattered
 evidence from a wide range of sources.
-
 ■ ‘MAUSOLEUM CULTURE’
-Funerary display can be traced from prehistory onward. Predynastic cemeteries show increasing polarization in the size of tombs and in the numbers
+Funerary display can be traced from prehistory onward. Predynastic ceme-
+teries show increasing polarization in the size of tombs and in the numbers
 and elaboration of grave goods they contained, with the largest constructed
 tombs contrasting with several levels of less wealthy burials (Bard, 1994).
 The ultimate development of a monumental funerary complex for the
@@ -175,61 +122,59 @@ type from non-royal and were often in a separate area of the necropolis. The
 king had a divine destiny in the hereafter that could be apart from his
 people. From no later than the second millennium, others could aspire to
 similar status, but royal tombs remained distinct. From the New Kingdom
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-7
-
-01 Baines (JG/d)
-
-8
-
-8/1/02
-
-1:05 pm
-
-Page 8
-
-Journal of Social Archaeology 2(1)
-
+Predynastic period 4800–2950 BCE
+Early Dynastic Period (Dynasties 1–3) 2950–2575
+Old Kingdom (Dynasties 4–8) 2575–2150
+First Intermediate Period (Dynasties 9–11) 2150–1975
+Middle Kingdom (Dynasties 11–13) 1975–1640
+Second Intermediate Period (Dynasties 14–17) 1640–1525
+New Kingdom (Dynasties 18–20) 1525–1075
+Third Intermediate Period (Dynasties 21–25) 1075–656
+Late Period (Dynasties 26–31) 664–332
+Ptolemaic period 332–30
+Roman period 30 BCE–395 CE
+Christian period 3rd–10th century
+Muslim conquest 641
+Table 1 Chronological table for historical periods in Ancient Egypt
+Note: Figures before 664 are approximate.Overlaps are deliberate.
+01 Baines (JG/d) 8/1/02 1:05 pm Page 7
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+8 Journal of Social Archaeology 2(1)
 on, they were in a restricted location, at first in the Valley of the Kings at
 Thebes and from the Third Intermediate Period in subterranean chambers
 in the courtyards of major temples (Stadelmann, 1971).
 Provision of offerings for the dead was focused on the tomb, but was also
-provided in memorial chapels or through the temples of deities, where ceremonies might be enacted before statues, first known from a late Old
+provided in memorial chapels or through the temples of deities, where cer-
+emonies might be enacted before statues, first known from a late Old
 Kingdom text (Sethe, 1933: 304–6; see also below). Throughout antiquity,
 king and elite wished to build mortuary structures that would ideally be
-visible and receive cults in perpetuity. During the decentralized intermediate periods, the difference in scale between the tombs of king, elite
+visible and receive cults in perpetuity. During the decentralized inter-
+mediate periods, the difference in scale between the tombs of king, elite
 and others diminished, while burials for many kings are not known; textual
 evidence confirms this slight social levelling. From the Third Intermediate
 Period on, a considerably reduced proportion of the elite possessed tombs
-
-Figure 1 Map of Egypt, and Nubia as far south as the Second Cataract, with
+Figure 1 Map of Egypt,and Nubia as far south as the Second Cataract,with
 the names of sites mentioned in the text
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 9
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 8
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+9
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 with a superstructure, while coffins and attendant grave goods showed a
 strong focus on the trappings of burial, and by implication an increased
 salience of the funeral ritual (Taylor, 2001). Nonetheless, the tradition of
 large constructed tombs survived and there was an essential continuity in
 mortuary aspiration until the Roman period.
 As exemplified in the tombs sited around the Great Pyramid at Giza, a
-necropolis was a community in death, where the distribution and architecture of tombs partially modeled elite organization. Such architectural statements were probably more public and political than communal and mortuary
+necropolis was a community in death, where the distribution and architec-
+ture of tombs partially modeled elite organization. Such architectural state-
+ments were probably more public and political than communal and mortuary
 (Helck, 1962). More locally within the same necropolis, groupings of tombs
-sometimes display family relations (Brovarski, 2001) or occupational affiliations (Roth, 1995). Such ordering is also evident in modest provincial
+sometimes display family relations (Brovarski, 2001) or occupational affili-
+ations (Roth, 1995). Such ordering is also evident in modest provincial
 cemeteries (O’Connor, 1974: 19–27; Reisner, 1932: 174–90). Groups of tombs
 could span several generations, with later burials clustering around that of a
 significant person, who might be the head of a family or a leading figure. The
@@ -237,46 +182,37 @@ cult of a local hero, Heqaib, within the townsite at Elephantine became the
 nucleus for memorial shrines of powerful Middle Kingdom families (Franke,
 1994; Habachi, 1985). The most important site for such shrines was Abydos.
 Notables from around the country built votive memorial chapels there
-
-Figure 2 Sector of the West Cemetery at Giza, aerial view from the east.The
+Figure 2 Sector of the West Cemetery at Giza,aerial view from the east.The
 regular pattern of fourth dynasty tombs was later disturbed by numerous,
-smaller intrusive tombs. Courtesy, Museum of Fine Arts, Boston. Reproduced
-with permission. ©2000 Museum of Fine Arts, Boston. All rights reserved
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-9
-
-01 Baines (JG/d)
-
-10
-
-8/1/02
-
-1:05 pm
-
-Page 10
-
-Journal of Social Archaeology 2(1)
-
+smaller intrusive tombs.Courtesy,Museum of Fine Arts,Boston.Reproduced
+with permission.©2000 Museum of Fine Arts,Boston.All rights reserved
+01 Baines (JG/d) 8/1/02 1:05 pm Page 9
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+10 Journal of Social Archaeology 2(1)
 (O’Connor, 1985; Simpson, 1974) and pilgrims buried votive statues or
 animal mummies in the sacred ground. Comparable cults sometimes grew up
 around the cult places of gods of the dead, or where an elite figure was
 ‘deified’ and his ‘worshippers’ had themselves buried or made votive burials
 of animals or funerary figurines near him (Taylor, 2001: 133–5).
-The ‘mausoleum culture’ in the necropolis which developed around provision for the royal and elite deceased must have been legitimized as much
+The ‘mausoleum culture’ in the necropolis which developed around pro-
+vision for the royal and elite deceased must have been legitimized as much
 in relation to the living as to the dead. As in many cultures, elite men wished
 to construct their tombs during their lifetimes, when the tomb was a central
-vehicle of peer competition. An explicit illustration of this is in the sixthdynasty statement of a man who chose to be buried in a tomb together with
+vehicle of peer competition. An explicit illustration of this is in the sixth-
+dynasty statement of a man who chose to be buried in a tomb together with
 his father ‘in order to be with this Djau in the same place, not because I did
-not have the means(?) to build two tombs’ – making explicit the status normally accorded to a having one’s own large tomb (Roccati, 1982: 227–8).
+not have the means(?) to build two tombs’ – making explicit the status nor-
+mally accorded to a having one’s own large tomb (Roccati, 1982: 227–8).
 At times, much of society must have been drawn – directly or indirectly,
 enthusiastically or not – into great mortuary projects, especially the royal
 pyramids of the third and fourth dynasties. The institutions of the pyramids
 was economically central. Apart from the vast enterprise of construction,
 the pyramid and related solar temple endowments were nodes for allocation
 of resources, although the proportion of economic activity that passed
-through them is uncertain (Lehner, 2000; O’Connor, 1995). When centralized political forms broke down in the First Intermediate Period, large-scale
+through them is uncertain (Lehner, 2000; O’Connor, 1995). When central-
+ized political forms broke down in the First Intermediate Period, large-scale
 pyramid complexes ceased to be constructed for the following 200 years.
 Tomb size and type varied as much with the fortunes of the times as with
 individual wealth and choice. A limited ‘democratization of the afterlife’
@@ -290,28 +226,21 @@ goods than in the Old Kingdom (Brunton, 1927: 75–6; Seidlmayer, 1990:
 first millennia there was interchange between royal and private traditions
 in tomb architecture and mortuary symbolism. Thus, New Kingdom kings
 abandoned the pyramidal tomb, which elites took over in reduced form
-(Badawy, 1968: 441–2; Kampp-Seyfried, 1994). Pictorial and textual compositions inscribed in royal tombs were adopted later by the non-royal,
-while kings took over non-royal substitute figurines (shabtis). These borrowings suggest that there existed a commonality of beliefs and symbols as
+(Badawy, 1968: 441–2; Kampp-Seyfried, 1994). Pictorial and textual com-
+positions inscribed in royal tombs were adopted later by the non-royal,
+while kings took over non-royal substitute figurines (shabtis). These bor-
+rowings suggest that there existed a commonality of beliefs and symbols as
 well as long-term variability in their use, despite sharp differentiation
 between major social categories (Richards, 2000; Seidlmayer, 2001).
 A broad norm for mortuary practices and beliefs is easily outlined.
 Ideally, an elite man (occasionally a woman) would prepare for death by
 constructing a tomb as an everlasting memorial, starting after reaching a
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 11
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 10
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+11
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 career peak. He would set aside provisions for the tomb and create an
 endowment to maintain the cult and supply offerings in perpetuity. After
 death, the body was mummified and prepared for burial, a process that
@@ -319,20 +248,26 @@ lasted, in theory, for 70 days. The deceased was then placed inside a coffin
 or nest of coffins and, in an elaborate ritual, transported from the place of
 embalming to the tomb and buried, in some periods with numerous grave
 goods, in a subterranean chamber contiguous with the superstructure. Like
-the tomb structure and decoration, the grave goods were no doubt associated with the deceased’s identity and status as well as with material provision. The chamber was sealed and not opened again unless other family
+the tomb structure and decoration, the grave goods were no doubt associ-
+ated with the deceased’s identity and status as well as with material pro-
+vision. The chamber was sealed and not opened again unless other family
 members were buried there. Burials of people connected with the tomb
 owner could be added in separate tomb shafts.
-Men were typically buried in major tombs with their wives and sometimes other family members and some dependants. Family or communal
+Men were typically buried in major tombs with their wives and some-
+times other family members and some dependants. Family or communal
 tombs became common in the later New Kingdom (e.g. for the eighteenth
 dynasty, Petrie and Sayce, 1891: 21–4; for the nineteenth and twentieth
-dynasties, Meskell, 1999a), Third Intermediate Period, and later (cf. Lacovara, 1988: 24), but both they and grouped tombs existed in earlier periods,
+dynasties, Meskell, 1999a), Third Intermediate Period, and later (cf. Laco-
+vara, 1988: 24), but both they and grouped tombs existed in earlier periods,
 particularly for the less wealthy (Engelbach, 1923: 59–63; Seidlmayer, 2001).
 Separate burials of elite women reappeared at the end of the New Kingdom,
 after an absence of some centuries (e.g. Quirke, 1999); child and infant
 burials are discussed later in this article.
 The crucial phase of the funerary ritual appears to have been the
-‘Opening of the Mouth’, in which the body was rendered capable of receiving offerings and functioning in the next world (Fischer-Elfert, 1998; Otto,
-1960). A designated person, ideally the eldest son, was responsible for completing or constructing the tomb if necessary, conducting the funeral and
+‘Opening of the Mouth’, in which the body was rendered capable of receiv-
+ing offerings and functioning in the next world (Fischer-Elfert, 1998; Otto,
+1960). A designated person, ideally the eldest son, was responsible for com-
+pleting or constructing the tomb if necessary, conducting the funeral and
 administering the cult. The mortuary cult, which was in principle similar to
 the daily cult of the gods in temples, centered on the presentation of food
 offerings and other essentials to statues, in the Old Kingdom mostly
@@ -341,33 +276,25 @@ representations of the deceased in the tomb chapel and through the object
 addressed, to the deceased himself (O’Connor, 2000; Roth, 1988: 54–5). In
 one of several frameworks of belief, the deceased would continue to exist
 around the tomb, possessing freedom of movement through the potential
-of aspects of the person that were liberated after death but needed perpetually to reunite with the mummy.
+of aspects of the person that were liberated after death but needed per-
+petually to reunite with the mummy.
 The preservation of the deceased’s body, of the coffin and of the tomb
 and grave goods was fundamental. Conservation of the corpse developed
-slowly from the late predynastic times to its fullest form in the Third Intermediate Period, when mummification was a very elaborate and costly procedure aimed at maintaining the deceased’s physical appearance (Ikram
+slowly from the late predynastic times to its fullest form in the Third Inter-
+mediate Period, when mummification was a very elaborate and costly pro-
+cedure aimed at maintaining the deceased’s physical appearance (Ikram
 and Dodson, 1998).
 Safeguards aimed to ensure that sustenance would be offered for the
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-11
-
-01 Baines (JG/d)
-
-12
-
-8/1/02
-
-1:05 pm
-
-Page 12
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 11
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+12 Journal of Social Archaeology 2(1)
 deceased if relatives or mortuary priests ceased to provide offerings of food
 and drink. Inscribed offering formulas, attested from the fourth dynasty to
 Graeco-Roman times, would magically sustain the tomb owner’s spirit
-when they were read out (Barta, 1968). The formulas presupposed – realistically or otherwise – that people would visit the necropolis as a whole, not
+when they were read out (Barta, 1968). The formulas presupposed – realis-
+tically or otherwise – that people would visit the necropolis as a whole, not
 just the tombs of their own kin, and would read and activate the formulae.
 These existed in two basic types, of which the one that did not explicitly
 address visitors to the tomb or chapel may have been thought efficacious
@@ -384,7 +311,8 @@ Two features of offering formulae in tombs point in different directions.
 The core typically runs: ‘A gift/propitiation that the king gives to [deit(ies)],
 that he/they may give [offerings] to [name].’ It is self-contained, involving
 no ritual in the tomb beyond being read out where possible, and depends
-for its efficacy on the mediation of the king and the temple, where he theoretically performed the daily cult. The deceased would receive this reversion
+for its efficacy on the mediation of the king and the temple, where he theor-
+etically performed the daily cult. The deceased would receive this reversion
 of offerings in the hereafter (Lapp, 1986). In this way, the dead participated
 both in the affairs and customs of the living and in the regular cult of the
 gods. These beliefs and practices, paralleled by such activities as writing
@@ -392,7 +320,6 @@ letters to the dead, reinforced the position of the recently dead in the human
 community, while the offering formula linked the deceased to the cult of the
 gods on earth, rather than in the otherworldly domains of both, and may
 have tended to assimilate them to a generalized category of spiritual beings.
-
 ■ THE DESTINY OF THE LESS WEALTHY
 The destiny in the next life of those who did not have elaborate tombs must
 be considered, although little can be said about them. As first discussed by
@@ -403,22 +330,14 @@ or other indications of sub-elite burials that have been pointed to belonged
 to prosperous people such as valued artisans (e.g. Hawass, 1995; Ward,
 1977). While indications of poor or mass burials are sometimes reported,
 the majority of them being ‘formal’ (Smith and Jeffreys, 1979: 19; 1980: 18),
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 13
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
-many corpses must have been disposed of in ways that are now archaeologically invisible (cf. Morris, 1987, on Iron Age Greece). At Haraga,
+01 Baines (JG/d) 8/1/02 1:05 pm Page 12
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+13
+Baines & Lacovara Burial and the dead in ancient Egyptian society
+many corpses must have been disposed of in ways that are now archaeo-
+logically invisible (cf. Morris, 1987, on Iron Age Greece). At Haraga,
 cemeteries probably of the Middle Kingdom that had proper burials but no
 tomb structures or grave goods illustrate how large numbers might be
 treated formally (Engelbach, 1923: 2–3). Such finds are rare, but perhaps
@@ -445,36 +364,27 @@ at Tell el-Dab‘a in the Delta, where a corpse discarded in a storage bin had
 been left exposed and partly consumed by animals (Bietak, 1991a: 52). Such
 a disposal, devoid of grave goods, suggests that members of the lowest social
 strata or perhaps outcasts might not have had even a simple interment in a
-burial ground. Not just the level of funerary expenditure but also the practice of formal burial was socially constrained.
+burial ground. Not just the level of funerary expenditure but also the prac-
+tice of formal burial was socially constrained.
 There may be exceptions to the pattern of selective formal burial – and
 thus to what is found more generally in archaeology (cf. Parker Pearson,
 1999: 5). Daniel Polz (1995: 40–1) proposed that for Second Intermediate
 Period Thebes the area of Dra‘ Abu el-Naga could have accommodated
 burials of the entire population, while some Late and Graeco-Roman
-cemeteries may have contained larger numbers of burials than are generally known from earlier sites.
+cemeteries may have contained larger numbers of burials than are gener-
+ally known from earlier sites.
 Moreover, cemeteries seldom mirror society’s demographic composition
 (for Greece, Morris, 1992: 72–91; for Egypt, Rösing, 1990). While in Egypt
 women may have had autonomy in some domains (Robins, 1993), tombs
 constructed for their use are rare – for the Old Kingdom fewer than 1
-percent of named tombs (Hubertus Münch, 2001, personal communication), and for the New Kingdom fewer still. The less elaborate the burials,
+percent of named tombs (Hubertus Münch, 2001, personal communi-
+cation), and for the New Kingdom fewer still. The less elaborate the burials,
 the more likely it was that men and women would receive a roughly equal
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-13
-
-01 Baines (JG/d)
-
-14
-
-8/1/02
-
-1:05 pm
-
-Page 14
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 13
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+14 Journal of Social Archaeology 2(1)
 treatment (e.g. for Middle Kingdom Haraga: Engelbach, 1923: 2–3; First
 Intermediate Period Qau: Seidlmayer, 1987; New Kingdom Deir el-Medina
 East: Meskell, 1999b). Published cemetery data rarely include significant
@@ -484,58 +394,56 @@ of its skeletons under two years of age, prompted its excavator to seek a
 special explanation for its composition. However, Bernard Boyaval (1981)
 noted that, in demographic terms, what needs to be explained is the pattern
 of age distributions in other cemeteries. Some of the discrepancy may be
-due to inadequate recording by earlier excavators, who may have overlooked or ignored the simpler and more fragile burials of infants in the
+due to inadequate recording by earlier excavators, who may have over-
+looked or ignored the simpler and more fragile burials of infants in the
 search for valuables, and to neglect in later syntheses. An exception is a
 remark about finds from late New Kingdom Abydos (Mariette, 1880: 442).
-More careful and more recent excavations have shown significant proportions of sub-adults of all ages in cemeteries of the Dynastic Period, but still
+More careful and more recent excavations have shown significant propor-
+tions of sub-adults of all ages in cemeteries of the Dynastic Period, but still
 not enough to represent the likely demographic reality (Meskell, 1999b:
 158–68; Seidlmayer, forthcoming).
 Burials of foetuses, neonates and infants have been found recently in
 contexts such as foundations of buildings in the late third millennium town
-at Abydos North (Matthew D. Adams, 2000, personal communication), suggesting that, as in many cultures, they were not necessarily interred in the
+at Abydos North (Matthew D. Adams, 2000, personal communication), sug-
+gesting that, as in many cultures, they were not necessarily interred in the
 same place or the same manner as adults or older juveniles (cf. e.g.
 Esmonde Cleary, 2000; Pollock, 1999: 197–204). Nonetheless, the majority
 of the Middle Kingdom infant burials in elite houses at Abydos South were
 ‘formal’ in that they were neatly arranged and covered over, and some had
 associated artifacts (Josef Wegner, 2000, personal communication). This
 was clearly a special practice, because it was abnormal to bury adults within
-settlements, although cases are reported (for the Middle and New Kingdoms, see von Pilgrim, 1996: 81–3). Some such burials were either where the
-community had expanded over a burial ground (Kemp, 1968; for Deir elMedina, see Meskell, 1997), or conversely, in abandoned habitation sectors
-(Lacovara, 1981: 122–4). The Palestinian Middle Bronze II levels at Tell alDab‘a offer a useful contrast: burials within the city were common and
+settlements, although cases are reported (for the Middle and New King-
+doms, see von Pilgrim, 1996: 81–3). Some such burials were either where the
+community had expanded over a burial ground (Kemp, 1968; for Deir el-
+Medina, see Meskell, 1997), or conversely, in abandoned habitation sectors
+(Lacovara, 1981: 122–4). The Palestinian Middle Bronze II levels at Tell al-
+Dab‘a offer a useful contrast: burials within the city were common and
 included all ages down to neonates (Bietak, 1991b).
-
 ■ IDEALS, PRACTICE AND SYMBOLISM IN MORTUARY
 PROVISION
 According to the ideal, the style of burial ritual, the correct deposition of
 the corpse and, at least in some periods, the presence of grave goods were
 central to burial and hopes of survival in the next world. The reality, both
 of procedures of burial and of maintenance of mortuary traditions, was
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 15
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 14
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+15
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 different. Apart from embalmers’ and mortuary priests’ involvement in the
 destruction and desecration of burials, they subverted and substituted for
 the prescribed literalistic forms. Such shortcuts might or might not run
 counter to the intentions of those who wished to be ‘properly’ buried.
 From an early period, symbolic approaches and interpretations could
-bridge the gap between aspiration and reality. It is as if the outward appearance of mortuary ritual and provision could be more important than the
+bridge the gap between aspiration and reality. It is as if the outward appear-
+ance of mortuary ritual and provision could be more important than the
 provision itself. Many burials and tombs contained miniature or dummy
 stone vessels or empty food containers, imitation granite false doors and so
 forth. Mummification was often similarly affected: only a semblance of the
 embalming necessary to preserve the body might be carried out, although
-the wrapped body in the coffin looked as good as one that had been ‘properly’ prepared (Taylor, 2001: 58–63, 78–91). At least as much as they were
+the wrapped body in the coffin looked as good as one that had been ‘prop-
+erly’ prepared (Taylor, 2001: 58–63, 78–91). At least as much as they were
 dictated by economics, these shortcuts may have been legitimized by a
 belief that the correct performance of mummification rituals was more
 significant than meticulous preservation of the body (Goyon and Josset,
@@ -567,38 +475,27 @@ to a great extent only from the tomb of Tutankhamun (Reeves, 1990a) and
 the twenty-first and twenty-second dynasties’ royal tombs of Tanis (Montet,
 1947–1960). Non-royal elites, who increasingly aspired to similar destinies,
 constructed elaborate tombs that should have received a regular cult. The
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-15
-
-01 Baines (JG/d)
-
-16
-
-8/1/02
-
-1:05 pm
-
-Page 16
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 15
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+16 Journal of Social Archaeology 2(1)
 cults themselves may not have been performed at all, or for only a short
 period. Large quantities of rough and miniature offering vessels found in
 some tomb chapels suggest that in these cases there was a significant volume
 of symbolic offerings (Charvát, 1981: 149–51; Richards, forthcoming). Since
-such material is sparse, the evidence is that mortuary cults were rarely maintained for long, despite supposedly perpetual cult endowments. The longest
+such material is sparse, the evidence is that mortuary cults were rarely main-
+tained for long, despite supposedly perpetual cult endowments. The longest
 known periods of cult may be for some Old Kingdom kings (Kemp, 1989:
 141–9; Posener-Kriéger, 1976). Neither for kings nor for others can grave
 goods or continuing mortuary cults have had the principal role in ensuring
 survival in the hereafter. Cults of some kings were maintained in later
 periods, but these seem to have been almost antiquarian in character.
-
 ■ AN AFTERLIFE AWAY FROM THE TOMB
 Some royal and non-royal beliefs suggest that there could be an afterlife
 that had little connection with an earthly context, so that the tomb was
-mainly a point of transition from one world to another. However monumental it might be, its permanence was then less important than if it was
+mainly a point of transition from one world to another. However monu-
+mental it might be, its permanence was then less important than if it was
 seen as a perpetual abode; but grave goods could still be lavish. These
 features were significant for the deceased’s standing among the living as
 much as for the next world. In principle, funeral rituals and the mortuary
@@ -607,7 +504,8 @@ the cult might not endure for long. As indicated, much relevant cult activity
 was sited in temples rather than in the necropolis.
 A text probably dating from the Middle Kingdom describes society as
 consisting of four parts – the gods, the king, the dead, and humanity – with
-the duty of the king, and, by extension, of humanity, being to make offerings to the gods and to the spirits of the deceased (Baines, 1991: 127–9).
+the duty of the king, and, by extension, of humanity, being to make offer-
+ings to the gods and to the spirits of the deceased (Baines, 1991: 127–9).
 Despite this view, which requires that the living and the dead be integrated,
 the social divisiveness of the knowledge that only some people would
 receive such cults and the awareness that the cults would not endure may
@@ -617,29 +515,21 @@ acquired moral authority through the notion of an ethical judgement after
 death, perhaps by the mid third millennium (Baines, 1991: 151). While these
 ideas might devalue the tomb’s significance, they do not have any simple
 correlate in the development or neglect of mortuary provision.
-The ethical and social leveling implicit in judgement after death is powerfully stated in a tale of the Ptolemaic Period in which a poor man, who had
-been buried without ceremony, stands honored near Osiris, while the eyesocket of a rich man, who had been taken out to the necropolis in a splendid
+The ethical and social leveling implicit in judgement after death is power-
+fully stated in a tale of the Ptolemaic Period in which a poor man, who had
+been buried without ceremony, stands honored near Osiris, while the eye-
+socket of a rich man, who had been taken out to the necropolis in a splendid
 coffin with ceremony and lamentation, has become the entrance door-socket
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 17
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 16
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+17
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 of a hall in the netherworld. This contrast is based on the worth of the men’s
 lives as assessed in judgement after death (Lichtheim, 1973–80: vol. 3: 126,
 139–141). The deceased do not depend upon the tomb: neither man is said
 to have a visible monument above ground, which fits the period of the text.
-
 ■ SKEPTICISM TOWARD MORTUARY PROVISION
 Some texts proclaim skepticism about mortuary provision and the survival
 of monuments. How significant and widespread were such attitudes, and
@@ -650,7 +540,8 @@ Merikare (Parkinson, 1998: 226), which takes an existing aphorism that one
 should prepare a tomb (1998: 292), and states that what is important is rather
 to create a presumably intangible monument by acting justly toward others
 in this world. Since the god prefers justice, such behavior should inspire him
-to act on behalf of the just – presumably in the next world. Decayed monuments from earlier periods were incorporated into discussions and images
+to act on behalf of the just – presumably in the next world. Decayed monu-
+ments from earlier periods were incorporated into discussions and images
 of the past (Baines, 1989). In the New Kingdom, individuals and groups
 visited derelict Old Kingdom royal mortuary complexes and elite tombs and
 left graffiti recording their impressions, but did not perform a cult.
@@ -664,31 +555,19 @@ states that monuments decay but the fame of past sages endures (Baines,
 1989: 143). The harpists’ songs were inscribed in tombs: mortuary structures
 could carry a critique of their own functions. Some of these songs may have
 formed part of funerals, mobilizing emotions of grief and loss and shifting
-concern back to the living (Lichtheim, 1973–80: vol. 3, 62–4). These discordant attitudes cast doubt upon the purpose of the structures, which
+concern back to the living (Lichtheim, 1973–80: vol. 3, 62–4). These dis-
+cordant attitudes cast doubt upon the purpose of the structures, which
 nonetheless continued to be built; such discordance is not confined to Egypt.
-
 ■ REUSE OF MATERIALS AND TOMBS: (DIS)RESPECT
 Tombs must have done more than ensure their owners’ survival into the
 next world. As is observed for Egypt and elsewhere, mortuary monuments
 are concerned with life as much as death (Allen, 1988: 48; Metcalf and
 Huntington, 1991; Spiegel, n.d. [1935]: 5–11). They aided the deceased’s life
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-17
-
-01 Baines (JG/d)
-
-18
-
-8/1/02
-
-1:05 pm
-
-Page 18
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 17
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+18 Journal of Social Archaeology 2(1)
 in the hereafter, but the tomb, and especially its superstructure, also existed
 for the living owner before death. Whatever the deceased’s otherworldly
 destiny, the tomb was present among the living as a memorial for its owner.
@@ -707,8 +586,10 @@ would champion them strongly might be the line of their successors – as is
 stated explicitly in the Instruction for King Merikare (Parkinson, 1998:
 225).
 In principle each ruler built his own mortuary complex, often on a new
-site. Many elite tombs were near those of their kings, and thus on different sites in succeeding generations. In terms of status, older cemeteries no
-doubt bore rather different meanings from current ones, and the discontinuities in location created by these patterns must have discouraged people
+site. Many elite tombs were near those of their kings, and thus on differ-
+ent sites in succeeding generations. In terms of status, older cemeteries no
+doubt bore rather different meanings from current ones, and the disconti-
+nuities in location created by these patterns must have discouraged people
 from identifying with anything other than the most recent structures.
 Devaluing earlier mortuary structures – of whatever age – allowed them to
 be exploited as sources of construction materials, or parts of them could be
@@ -718,39 +599,35 @@ damage them, no pressure to keep them inviolate is evident. From the
 Early Dynastic Period on, reuse in the necropolis varied from employing
 materials from structures that were perhaps falling into ruin, through
 taking stone from the tombs of unrelated people, to annexing parts of one
-complex for the next. Non-royal individuals of many periods also appropriated complete constructed tombs. Coffins and sarcophagi too were
+complex for the next. Non-royal individuals of many periods also appro-
+priated complete constructed tombs. Coffins and sarcophagi too were
 reused. The construction of mortuary complexes could involve destroying
 quite recent monuments: the fifth dynasty causeway of Wenis at Saqqara
 covered and rendered inaccessible a number of tombs (e.g. Moussa and
 Altenmüller, 1977). On a smaller scale, burial shafts of graves were very
 widely reused.
 Similar patterns can be observed over longer periods. The overlaying of
-first dynasty tombs at North Saqqara with graves of the later Early Dynastic Period and, a little to the south, the obliteration of second dynasty royal
+first dynasty tombs at North Saqqara with graves of the later Early Dynas-
+tic Period and, a little to the south, the obliteration of second dynasty royal
 tombs 400 years later by the fifth dynasty mortuary temple of Wenis show
 a casual approach to earlier monuments within the same overall period
 (Stadelmann, 1997: 29–40). To take stone from an abandoned tomb
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 19
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 18
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+19
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 hundreds of years old might have been fairly neutral in its implied attitudes
 toward the past, but it is not easy to draw a line between ‘continuous’ and
 ‘remote’ reuse.2
 A characteristic case is the Saqqara tomb of the general, later king,
 Haremhab (c.1320), together with others nearby (Martin, 1978; 1991:
-88–98). The stonework of these structures is largely composed of materials taken from Old Kingdom tombs – probably ruined – of about a millennium earlier. Haremhab’s tomb was not fully completed and its owner was
-buried in the Valley of the Kings at Thebes. A generation later, a highranking woman was buried in the Saqqara tomb, as were several other
+88–98). The stonework of these structures is largely composed of materi-
+als taken from Old Kingdom tombs – probably ruined – of about a millen-
+nium earlier. Haremhab’s tomb was not fully completed and its owner was
+buried in the Valley of the Kings at Thebes. A generation later, a high-
+ranking woman was buried in the Saqqara tomb, as were several other
 people in the Third Intermediate Period, and it was reused again in early
 Christian times.
 In repeated reuse of this sort, locality is significant. Particular burial
@@ -758,44 +635,38 @@ grounds, places or single tombs became hallowed; people competed to be
 buried in or near them, increasing the crowding of sites and the stimulus to
 reuse earlier structures. The Theban necropolis, which was the country’s
 main elite burial ground for half a millennium from 1500 BCE, shows the
-most complex developments and patterns of reuse (Guksch, 1995; KamppSeyfried, 1996: 123–9; Montserrat and Meskell, 1997; Polz, 1990; Strudwick
+most complex developments and patterns of reuse (Guksch, 1995; Kampp-
+Seyfried, 1996: 123–9; Montserrat and Meskell, 1997; Polz, 1990; Strudwick
 and Strudwick, 1996: 188–93). In the late New Kingdom, people were
-assigned tombs of their forbears a few generations back for reuse (McDowell, 1999: 68–9); this no doubt involved probing to find the graves,
+assigned tombs of their forbears a few generations back for reuse (Mc-
+Dowell, 1999: 68–9); this no doubt involved probing to find the graves,
 followed by disturbing any unpillaged burial that remained. From the first
-millennium and later, the rich evidence includes institutionalized management of existing rock tombs as communal burial places, in which the cult of
+millennium and later, the rich evidence includes institutionalized manage-
+ment of existing rock tombs as communal burial places, in which the cult of
 a mummy was maintained for as long as a subscription supported it
 (Pestman, 1993; Thompson, 1988: 155–89). At Tuna el-Gebel during the
 Graeco-Roman period, the burial chamber and superstructure of the large
 elite tomb of Petosiris (c.300 BCE) were filled with dozens of corpses
 (Lefebvre, 1924: 13–29).
 The visual impact and wealth of mausoleums like that of Haremhab
-make them natural targets for exploitation by those who either are indifferent to the status and values of their builders or value the site for its
+make them natural targets for exploitation by those who either are indif-
+ferent to the status and values of their builders or value the site for its
 associations. If a tomb was to survive, strong sanctions were needed to
-protect it. These might have ranged from generalized respect or the prestige of the owners, through cemetery guards, to taboos surrounding the
+protect it. These might have ranged from generalized respect or the pres-
+tige of the owners, through cemetery guards, to taboos surrounding the
 places of the dead or the mummy itself. Of these sanctions, the weakest is
 prestige, because it functions only if there is a perceived connection with
 the past, and that would not last indefinitely. Nonetheless, evidence for
-respect at some sites is impressive. At Abydos, the area of the Early Dynastic royal mortuary enclosures was not reoccupied for burials until a
+respect at some sites is impressive. At Abydos, the area of the Early Dynas-
+tic royal mortuary enclosures was not reoccupied for burials until a
 millennium later. Even though cemeteries were created nearby, the Old
 Kingdom cemetery was respected for more than 1500 years (Richards,
 forthcoming). One enclosure, the Shunet el-Zebib, was not encroached
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-19
-
-01 Baines (JG/d)
-
-20
-
-8/1/02
-
-1:05 pm
-
-Page 20
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 19
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+20 Journal of Social Archaeology 2(1)
 upon before the mid-first millennium. A set of late Middle Kingdom stelae
 protected another area against tomb building and trespassing (Leahy,
 1989).
@@ -810,7 +681,8 @@ culturally salient, and while their monuments were respected early in their
 ascent to fame (Helck, 1972: 16–19), once their literary renown and cultural
 associations had immortalized them, their tombs could be stated explicitly
 to be irrelevant (Lichtheim, 1973–80: vol. 2, 175–8). The cults of a few of
-these people were revived out of antiquarian interest in the first millennium BCE, because of their cultural significance rather than their status and
+these people were revived out of antiquarian interest in the first millen-
+nium BCE, because of their cultural significance rather than their status and
 destiny as deceased people (Otto, 1957). There was no continuity between
 their original mortuary cults and the recreated ones. Even the widespread
 cult of the deified culture hero Imhotep (Wildung, 1977) related to his
@@ -839,27 +711,19 @@ Djoser under his Step Pyramid at Saqqara was exposed to view by the
 wholesale removal of masonry within the structure (Stadelmann, 1997: 65).
 The focus of this ‘tourist entrance’ was the presumably empty burial
 chamber.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 21
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 20
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+21
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 ■ THE DEAD IN RELATION TO THE LIVING
 The dead required offerings, and in that sense they organized the living. The
 vast outlay on mortuary provision in some periods makes this partly true in
 material terms, but most of the expenditure was incurred before people died
 or immediately afterward. Texts setting up mortuary endowments show that
-the living had a continuing obligation to maintain the cults of their forebears, but these were seldom in fact maintained.
+the living had a continuing obligation to maintain the cults of their fore-
+bears, but these were seldom in fact maintained.
 A Middle Kingdom text gives a moral dimension to this point by having
 the creator god assert that he made people’s hearts ‘refrain from forgetting
 the West [the domain of the dead], in order that offerings be made to the
@@ -872,10 +736,12 @@ anticipation of dying themselves and needing the same provision – either
 from their descendants or through the gods. The second of these readings
 fits better within Egyptian beliefs and is to be preferred, but the two are
 not incompatible. In either case, death and the dead kept the living in line
-and encouraged them to respect the gods. The dead in question were primarily elites, because only they had memorials that might stimulate the
+and encouraged them to respect the gods. The dead in question were pri-
+marily elites, because only they had memorials that might stimulate the
 living to invoke the reversion of offerings from temples of the gods to the
 deceased.
-Ideally, the deceased and the living interacted around the tomb. Mortuary endowments provided for regular offerings in the tomb and these were
+Ideally, the deceased and the living interacted around the tomb. Mortu-
+ary endowments provided for regular offerings in the tomb and these were
 supplemented by visits of family during festivals (e.g. Graefe, 1986). The
 mortuary contracts which the local governor Hapidjefai made with the
 priesthood of Asyut in the early twelfth dynasty, however, focused on
@@ -889,30 +755,20 @@ than just the elite. In later periods, temple statues of individuals were
 increasingly a mortuary focus, so that the dead participated more directly
 in the cult of the gods. Both in the formulae and through this practice, there
 was overlap between the cult of the living gods and the mortuary cult of the
-dead. In the Graeco-Roman period, this commonality had a reverse dimension and there were stated to be burials of dead gods in the cemeteries (e.g.
+dead. In the Graeco-Roman period, this commonality had a reverse dimen-
+sion and there were stated to be burials of dead gods in the cemeteries (e.g.
 Reymond, 1963: 55 with n. 3).
 The dead continued to be involved with the living. They could be
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-21
-
-01 Baines (JG/d)
-
-22
-
-8/1/02
-
-1:05 pm
-
-Page 22
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 21
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+22 Journal of Social Archaeology 2(1)
 benevolently or malevolently present to relatives and associates, perhaps
 especially to those who visited the necropolis (e.g. Posener, 1958, 1981). Old
 Kingdom tomb inscriptions assert that the deceased would intercede in the
-divine world on behalf of those who treated their tombs respectfully or pronounced offering formulae for them (Roccati, 1982). This intercession is
+divine world on behalf of those who treated their tombs respectfully or pro-
+nounced offering formulae for them (Roccati, 1982). This intercession is
 paralleled by intermediary statues of prominent people in temples, of a type
 perhaps first attested for the twelfth dynasty vizier Mentuhotep (Simpson,
 1991), that could be approached to transmit requests or prayers to the gods
@@ -925,7 +781,8 @@ attested from the late Old Kingdom to the mid first millennium BCE (Jasnow
 and Vittmann, 1992/93; Wente, 1990: 210–20). People wrote to their
 deceased relatives for help if they were threatened with loss or were unable
 to achieve what they wanted through regular channels. One letter contains
-the complaints of a husband who believed his deceased wife was tormenting him from the tomb (Wente, 1990: 216–17). The letters, few of which were
+the complaints of a husband who believed his deceased wife was torment-
+ing him from the tomb (Wente, 1990: 216–17). The letters, few of which were
 found in situ, seem to have been addressed to people recently deceased,
 some of whom may have acted as conduits to more remote people who were
 being sought. In a largely non-literate society, the written form of these
@@ -951,27 +808,19 @@ for unexpected adverse fate, were agents of divine retribution, and would
 strike the vandal – apparently in this world – as a consequence of the god’s
 judgement.
 It is difficult to say how much conviction was carried by assertions that
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 23
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 22
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+23
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 the deceased could harm the living. In addition to the letters to the dead,
 magical rituals performed in the necropolis against generalized categories
 of enemies attest to fear of the dead in this broader context (Osing, 1976;
 Seidlmayer, forthcoming). The ‘dead’ who are mentioned as agents of
 disease in medical texts could have been a focus of such rituals, but spells
-intended to ward off illness and death caused by them are difficult to interpret because the word ‘dead’ may also mean those damned in judgement
+intended to ward off illness and death caused by them are difficult to inter-
+pret because the word ‘dead’ may also mean those damned in judgement
 after death (e.g. Borghouts, 1978: 4–6). Be that as it may, the prevalence of
 tomb robbery suggests that these dangers were little heeded, or perhaps
 averted through suitable magic or destruction, such as the dismembering or
@@ -998,37 +847,31 @@ cemetery at Elephantine, where tombs were not encroached upon until a
 few generations after they were constructed (Seidlmayer, forthcoming). A
 different possibility is thematized in a tale where a high priest is contacted
 by a long-deceased official and inspired to rebuild his tomb (Wente, 1973).
-The tale seems to explore the limits of interaction of dead and living, envisaging that among those of high status who survived in memory the unquiet
+The tale seems to explore the limits of interaction of dead and living, envis-
+aging that among those of high status who survived in memory the unquiet
 dead might not just keep the living in line in the shorter term, but might be
 a more or less perpetual moral burden. This possibility is the opposite of
-the focus of the skeptical texts on posthumous reputation rather than monuments; the two opinions could have coexisted.
+the focus of the skeptical texts on posthumous reputation rather than monu-
+ments; the two opinions could have coexisted.
 One of the earliest surviving tomb inscriptions, from the beginning of
-the fourth dynasty, refers to the owner’s having made his ‘ “gods” [probably the figures and captions] in writing that cannot be erased’ (Spiegelberg, 1930), describing the special paste inlay used for this tomb. The use
+the fourth dynasty, refers to the owner’s having made his ‘ “gods” [prob-
+ably the figures and captions] in writing that cannot be erased’ (Spiegel-
+berg, 1930), describing the special paste inlay used for this tomb. The use
 of this technique and the description may suggest that the problem of
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-23
-
-01 Baines (JG/d)
-
-24
-
-8/1/02
-
-1:05 pm
-
-Page 24
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 23
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+24 Journal of Social Archaeology 2(1)
 vandalism, as distinct from tomb robbery, was present by then, which is
-reasonable in view of the already long history of tomb robbery and destruction. Texts assuring the reader of the tomb owner’s good character and
+reasonable in view of the already long history of tomb robbery and destruc-
+tion. Texts assuring the reader of the tomb owner’s good character and
 virtuous payment of his debts (Roth, 1994: 232–8) imply that people with
 a grudge might vandalize a tomb (e.g. Baines, 1991: 139–42). A graffito next
 to a mutilated figure in a late Old Kingdom tomb has been interpreted as
 an example of such a vendetta being acted out from one generation to the
-next: the son does to the image of his father’s oppressor what the oppressor had done to his father (Baines, 1991: 141, n. 50). The importance of an
+next: the son does to the image of his father’s oppressor what the oppres-
+sor had done to his father (Baines, 1991: 141, n. 50). The importance of an
 untainted reputation is illustrated in a unique passage where a tomb owner
 states that he was never arrested or imprisoned, and that if he was, the
 accusations against him redounded against the accusers (Sethe, 1933: 221).
@@ -1056,28 +899,20 @@ easy to interpret (Dorman, 1988; Schulman, 1969–70). Characteristic cases
 are of people close to royalty, such as ‘Chief Stewards’, who may have been
 vulnerable to later kings’ repudiation of their predecessors’ officials (Helck,
 1957: 537–47). In the only preserved moralizing comment on vandalism, the
-fictional royal author of the Instruction for King Merikare regrets his complicity in the destruction of tombs in the Abydos area (Parkinson, 1998:
+fictional royal author of the Instruction for King Merikare regrets his com-
+plicity in the destruction of tombs in the Abydos area (Parkinson, 1998:
 225). The statement comes shortly before an injunction, unrealistic in the
 light of archaeological finds, to quarry fresh stone for monuments and not
 break up earlier structures. The text distinguishes vandalism and reuse, but
 in relation to both it seems to focus on the idea of a monument more than
 on the preservation of the dead or their destinies in the hereafter. The
 prospects for the intact survival of burials may have been thought hopeless.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 25
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 24
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+25
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 Vandalism should be distinguished from tomb robbery, which was always
 the commonest form of desecration. Robbery was so prevalent that few
 ancient tombs which might have contained numerous and reusable grave
@@ -1089,7 +924,8 @@ rigour. The only surviving extensive records date to the later twentieth
 dynasty, when factional disputes among the administrative elite in Thebes
 led to the uncovering of many robberies in the Theban necropolis (Capart
 et al., 1936; Peet, 1930; accusations recorded in Černý, 1929). The most
-revealing single passage in these texts may be in the report on an investigation in which some minor royal tombs of the seventeenth dynasty were
+revealing single passage in these texts may be in the report on an investi-
+gation in which some minor royal tombs of the seventeenth dynasty were
 inspected and found, with one exception, to be intact: the non-royal tombs
 were said all to have been violated (Peet, 1930: 37–42). This distinction may
 have been overdrawn, but is probably not entirely misleading. If so, the
@@ -1099,7 +935,9 @@ could not expect their burials to survive.
 There is little evidence for when royal tombs were robbed – the case of
 Tutankhamun is disputed – but this is generally assumed to have been
 during troubled times, and on occasion perhaps directed by the authorities
-(Graefe, 1999; Jansen-Winkeln, 1995). In the Valley of the Kings, twentyfirst and twenty-second dynasty rulers seem to have stripped their predecessors’ burials of their valuables, reusing gold and funerary objects,
+(Graefe, 1999; Jansen-Winkeln, 1995). In the Valley of the Kings, twenty-
+first and twenty-second dynasty rulers seem to have stripped their prede-
+cessors’ burials of their valuables, reusing gold and funerary objects,
 including a set of royal coffins, in their own tombs at Tanis (Reeves, 1990b:
 273–8, 18). The bodies of the dispossessed kings, however, were treated
 with some respect and cached in communal tombs (e.g. Jansen-Winkeln,
@@ -1110,36 +948,27 @@ reverence.
 Many non-royal tombs seem to have been robbed by those who made
 the burials (e.g. Engelbach, 1915: 21–2). On occasion empty sarcophagi or
 coffins seem to have been placed in the tomb, perhaps after the burial had
-been stripped of its jewels and trappings with the collusion of funerary personnel (Ikram and Dodson, 1998: 93, 245–6). Previous burials in a chamber
+been stripped of its jewels and trappings with the collusion of funerary per-
+sonnel (Ikram and Dodson, 1998: 93, 245–6). Previous burials in a chamber
 were often ransacked (D’Auria et al., 1988: 109–10) or appropriated
 (Montserrat and Meskell, 1997; Riggs, 2000). The blocking stones to some
-tombs were deliberately not placed in position (Spencer, 1982: 81). Surviving unplundered burials either contained little of material value or had been
+tombs were deliberately not placed in position (Spencer, 1982: 81). Surviv-
+ing unplundered burials either contained little of material value or had been
 rendered invisible by later use of the ground above them, as with the tomb
 of Tutankhamun.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-25
-
-01 Baines (JG/d)
-
-26
-
-8/1/02
-
-1:05 pm
-
-Page 26
-
-Journal of Social Archaeology 2(1)
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 25
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+26 Journal of Social Archaeology 2(1)
 ■ CONCLUSION
 The routine character of tomb robbery and the continual destruction of
 both older and recent funerary monuments might seem paradoxical in view
 of the Egyptians’ vast expenditure on mortuary provision and their
 devotion to creating and endowing elaborate sepulchres as their mortal
 resting places. As we have discussed, this expenditure coexisted on several
-levels with skepticism about the provision’s worth. Such actions and attitudes if anything reinforce the fact that, for much of Egyptian history, an
+levels with skepticism about the provision’s worth. Such actions and atti-
+tudes if anything reinforce the fact that, for much of Egyptian history, an
 essential idiom in which royalty and the elite displayed wealth, status and
 cultural values was mortuary. The imperative to provide monuments
 coexisted with a symbolic understanding of the purpose and meaning of
@@ -1150,17 +979,20 @@ setting up a mortuary cult were the essential points, even for members of
 the elite. Whether or not the burial was executed ‘correctly’ and the cult
 maintained was almost immaterial.
 In this way, the elite mausoleum culture was able to accommodate the
-short-term cultural mandate to construct and maintain tombs to the longterm inevitability of abandonment and decay. From early times, Egyptians
+short-term cultural mandate to construct and maintain tombs to the long-
+term inevitability of abandonment and decay. From early times, Egyptians
 looked to the past with its decayed monuments and conceived of the present
 world as imperfect in relation to an absolute antiquity (Baines, 1989). This
 awareness tempered their understanding of mortuary provision. In this
 sense, a monument like the Great Pyramid, which for the modern world
-symbolizes ancient Egypt, must count as an aberration. The pyramid proclaimed both its indestructibility and, in the distribution of non-royal tombs
+symbolizes ancient Egypt, must count as an aberration. The pyramid pro-
+claimed both its indestructibility and, in the distribution of non-royal tombs
 around it, the survival of human social hierarchies into the next world. At
 the same time, its construction absorbed much of the country’s resources.
 Such expenditures and allocations were not sustainable, and by the first
 millennium BCE they had declined considerably.
-The significance of a mortuary monument might be transformed or perpetuated in its ruined condition. For a few individuals, that condition led to
+The significance of a mortuary monument might be transformed or per-
+petuated in its ruined condition. For a few individuals, that condition led to
 new dimensions of social memory (Assmann, 1988), while it may not have
 been seen as militating against others’ survival among the blessed (or
 damned) dead in the afterworld. We suggest that Egyptian attitudes toward
@@ -1171,21 +1003,12 @@ to maintain both idealizing and rationalizing views of death and the dead.
 The long-term trend away from expending resources on monumental
 tombs may have had a more general significance. The ultimate ideological
 focus of Egyptian society lay with the gods, although in the third millennium
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 27
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 26
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+27
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 that conception may have been physically belied by mortuary expenditure,
 especially on the king’s monument. In later periods, and as the centrality of
 kingship lessened slightly, the focus of ideology on the gods was more in
@@ -1200,12 +1023,14 @@ but this does not seem to have been so true of later times. Egyptian societal
 organization was ‘political’ rather than kin-centred, and later periods were
 increasingly urbanized and ethnically mixed. In such a complex setting, the
 dead and their abodes were culturally vital because of the ancient traditions
-of expenditure on them and perhaps for differentiating particular communities, but they were not crucial to the coherence or articulation of
+of expenditure on them and perhaps for differentiating particular com-
+munities, but they were not crucial to the coherence or articulation of
 society and only partly sustained its basic values. From the beginning, the
 preservation of the dead and their monuments was threatened by the
 passage of time and by competing concerns; monumental tomb building
 ultimately gave way to other focuses and modes of expression.
-Large, inegalitarian state societies, especially those with dense populations, may perhaps not value the dead unduly, because the dead as a
+Large, inegalitarian state societies, especially those with dense popu-
+lations, may perhaps not value the dead unduly, because the dead as a
 whole, as opposed to particular figures whose reputations transcend their
 mortal remains and monuments, may not be a cohesive focus for societal
 integration and centripetal values. Egypt did not have extended lineage
@@ -1219,7 +1044,8 @@ awareness, and from the responsibility of the living, if the burden of the
 dead is not to become intolerable.
 Ways in which these problems are confronted vary greatly. As examples
 we have cited show, neglect of the dead is in no way incompatible with a
-strong mobilization of the past and of some of its decayed mortuary monuments. While discordances can be found in many societies, Egypt seems, in
+strong mobilization of the past and of some of its decayed mortuary monu-
+ments. While discordances can be found in many societies, Egypt seems, in
 part because of favorable preservation in the low desert of the Nile Valley,
 to stand at an extreme of contrast between the ideal of respect and the
 reality of disregard and desecration. For the Egyptians, the availability of
@@ -1227,27 +1053,14 @@ alternative, partly complementary modes of transcending death – through
 mummification and burial, otherworldly destinies, and reputation down the
 generations – may have gone some way toward rationalizing this dichotomy.
 The primary focus of Egyptian mortuary provision was ultimately on the
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-27
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 28
-
-Journal of Social Archaeology 2(1)
-
-28
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 27
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+28 Journal of Social Archaeology 2(1)
 living, for the elaborate precautions and preparations were as much a way
 of denying the finality of death as of ensuring a continuation of existence
 through conventional ritual.
-
 Acknowledgements
 We should like to thank Sue D’Auria, Yvonne Markowitz and Ann Roth for
 advice. We are grateful to the Pennsylvania–Yale–Institute of Fine Arts Expedition
@@ -1256,7 +1069,6 @@ Wegner for access to unpublished material, and to Mark Lehner and Daniel Polz. W
 owe particular debts to David O’Connor and Janet Richards for detailed criticisms
 of drafts, to Hubertus Münch for critique and much help, and to Lynn Meskell for
 great patience over the final version.
-
 Notes
 1 Much of this article concerns beliefs and practices that are commonplaces of
 Egyptology and cannot be documented fully here. For additional information
@@ -1269,7 +1081,6 @@ numinous quality, as against their value as building material. So long as a
 particular temple complex remained in use, the stone of older buildings seems
 generally to have been buried in foundations or reused rather than being taken
 away or discarded.
-
 References
 Allen, J.P. (1988) ‘Funerary Texts and Their Meaning’, in S. D’Auria, P. Lacovara
 and C.H. Roehrig (eds) Mummies and Magic: The Funerary Arts of Ancient
@@ -1287,21 +1098,12 @@ Assmann, J. (2001) Tod und Jenseits im alten Ägypten. Munich: C.H. Beck.
 Badawy, A. (1968) A History of Egyptian Architecture: The Empire (the New
 Kingdom). Berkeley and Los Angeles: University of California Press.
 Baines, J. (1989) ‘Ancient Egyptian Concepts and Uses of the Past: 3rd to 2nd
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 29
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 28
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+29
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 Millennium BC Evidence’, in R. Layton (ed.) Who Needs the Past? Indigenous
 Values and Archaeology, pp. 131–49. London: Unwin Hyman.
 Baines, J. (1991) ‘Society, Morality, and Religious Practice’, in B.E. Shafer (ed.)
@@ -1315,12 +1117,15 @@ Baines, J. and C. Eyre (1983) ‘Four Notes on Literacy’, Göttinger Miszellen
 Bard, K.A. (1994) From Farmers to Pharaohs: Mortuary Evidence for the Rise of
 Complex Society in Egypt. Monographs in Mediterranean Archaeology 2.
 Sheffield: Sheffield Academic Press.
-Barta, W. (1968) Aufbau und Bedeutung der altägyptischen Opferformel. Ägyptologische Forschungen 24. Glückstadt: J.J. Augustin.
+Barta, W. (1968) Aufbau und Bedeutung der altägyptischen Opferformel. Ägyptolo-
+gische Forschungen 24. Glückstadt: J.J. Augustin.
 Berger, P.L. (1973) The Social Reality of Religion [originally The Sacred Canopy,
 1967]. Harmondsworth: Penguin Books.
-Bietak, M. (1991a) ‘Der Friedhof in einem Palastgarten aus der Zeit des späten Mittleren Reiches und andere Forschungsergebnisse aus dem östlichen Nildelta (Tell
+Bietak, M. (1991a) ‘Der Friedhof in einem Palastgarten aus der Zeit des späten Mit-
+tleren Reiches und andere Forschungsergebnisse aus dem östlichen Nildelta (Tell
 el-Dab’a 1984–1987)’, Ägypten und Levante 2: 47–109.
-Bietak, M. (1991b) Tell el-Dab’a V: Ein Friedhofsbezirk der Mittleren Bronzezeitkultur mit Totentempel und Siedlungsschichten I. Vienna: Österreichische Akademie
+Bietak, M. (1991b) Tell el-Dab’a V: Ein Friedhofsbezirk der Mittleren Bronzezeitkul-
+tur mit Totentempel und Siedlungsschichten I. Vienna: Österreichische Akademie
 der Wissenschaften.
 Blumenthal, E. (1991) ‘Die “Reinheit” des Grabschänders’, in U. Verhoeven and E.
 Graefe (eds) Religion und Philosophie im alten Ägypten: Festgabe für Philippe
@@ -1329,7 +1134,8 @@ Borghouts, J.F. (1978) Ancient Egyptian Magical Texts. Leiden: E.J. Brill.
 Bourriau, J. (1991) ‘Patterns of Change in Burial Customs during the Middle
 Kingdom’, in S. Quirke (ed.) Middle Kingdom Studies, pp. 3–20. New Malden:
 SIA.
-Boyaval, B. (1981) ‘Quelques remarques démographiques sur les nécropoles de Mirgissa’. Cahier de Recherches de l’Institut de Papyrologie et d’Egyptologie de Lille:
+Boyaval, B. (1981) ‘Quelques remarques démographiques sur les nécropoles de Mir-
+gissa’. Cahier de Recherches de l’Institut de Papyrologie et d’Egyptologie de Lille:
 Etudes sur l’Egypte et le Soudan Anciens 6: 191–206.
 Brovarski, E.J. (2001) The Senedjemib Complex I: The Mastabas of Senedjemib Inti
 (G 2370), Khnumenti (G 2374), and Senedjemib Mehi (G 2378). Boston, MA:
@@ -1340,33 +1146,26 @@ Butzer, K.W. (1976) Early Hydraulic Civilization in Egypt: A Study in Cultural
 Ecology. Chicago, IL and London: University of Chicago Press.
 Capart, J., A.H. Gardiner and B. van de Walle (1936) ‘New Light on the Ramesside
 Tomb Robberies’, Journal of Egyptian Archaeology 22: 169–93.
-Černý, J. (1929) ‘Papyrus Salt 824 (Brit. Mus. 10055)’, Journal of Egyptian Archaeology 15: 243–58.
-Charvát, P. (1981) The Mastaba of Ptahshepses: The Pottery. Czechslovak Excavations at Abusir. Prague: Universita Karlova.
+Černý, J. (1929) ‘Papyrus Salt 824 (Brit. Mus. 10055)’, Journal of Egyptian Archae-
+ology 15: 243–58.
+Charvát, P. (1981) The Mastaba of Ptahshepses: The Pottery. Czechslovak Excava-
+tions at Abusir. Prague: Universita Karlova.
 D’Auria, S., P. Lacovara and C. Roehrig (1988) Mummies and Magic: The Funerary
 Arts of Ancient Egypt. Boston, MA: Museum of Fine Arts.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-29
-
-01 Baines (JG/d)
-
-30
-
-8/1/02
-
-1:05 pm
-
-Page 30
-
-Journal of Social Archaeology 2(1)
-Dorman, P. (1988) The Monuments of Senenmut: Problems in Historical Methodology. London: KPI.
+01 Baines (JG/d) 8/1/02 1:05 pm Page 29
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+30 Journal of Social Archaeology 2(1)
+Dorman, P. (1988) The Monuments of Senenmut: Problems in Historical Methodol-
+ogy. London: KPI.
 Dreyer, G., U. Hartung, T. Hikade, E.C. Köhler, V. Müller and F. Pumpenmeier
 (1998) ‘Umm el-Qaab: Nachuntersuchungen im frühzeitlichen Königsfriedhof,
 9./10. Vorbericht’, Mitteilungen des Deutschen Archäologischen Instituts,
 Abteilung Kairo 54: 77–167.
 Emery, W.B. (1961) Archaic Egypt. Harmondsworth: Penguin.
-Engelbach, R. (1915) Riqqeh and Memphis VI. London: British School of Archaeology in Egypt.
+Engelbach, R. (1915) Riqqeh and Memphis VI. London: British School of Archae-
+ology in Egypt.
 Engelbach, R. (1923) Harageh. London: British School of Archaeology in Egypt.
 Esmonde Cleary, S. (2000) ‘Putting the Dead in Their Place: Burial Location in
 Roman Britain’, in J. Pearce, M. Millett and M. Struck (eds) Burial, Society and
@@ -1392,39 +1191,33 @@ Paris: Le Léopard d’Or.
 Graefe, E. (1986) ‘Talfest’, in W. Helck and W. Westendorf (eds) Lexikon der
 Ägyptologie, VI, cols. 187–9. Wiesbaden: Otto Harrassowitz.
 Graefe, E. (1999) ‘Über die Goldmenge im alten Ägypten und die Beraubung der
-thebanischen Königsgräber’, Zeitschrift für Ägyptische Sprache und Altertumskunde 126: 19–40.
+thebanischen Königsgräber’, Zeitschrift für Ägyptische Sprache und Altertums-
+kunde 126: 19–40.
 Grieshammer, R. (1975/76) ‘Zur Formgeschichte der Sprüche 38–41 der Sargtexte’,
 Orientalia Lovaniensia Periodica 6–7: 231–5.
 Guksch, H. (1995) ‘Über den Umgang mit Gräbern’, in J. Assmann, E. Dziobek, H.
 Guksch and F. Kampp (eds) Thebanische Beamtennekropolen: neue Perspektiven
 archäologischer Forchung: Internationales Symposion, Heidelberg, 9–13 Juni
-1993, pp. 13–24. Studien zur Archäologie und Geschichte Altägyptens 12. Heidelberg: Heidelberger Orientverlag.
-Habachi, L. (1985) Elephantine IV: The Sanctuary of Heqaib. Archäologische Veröffentlichungen des Deutschen Archäologischen Instituts, Abteilung Kairo 33.
+1993, pp. 13–24. Studien zur Archäologie und Geschichte Altägyptens 12. Heidel-
+berg: Heidelberger Orientverlag.
+Habachi, L. (1985) Elephantine IV: The Sanctuary of Heqaib. Archäologische Veröf-
+fentlichungen des Deutschen Archäologischen Instituts, Abteilung Kairo 33.
 Mainz: Philipp von Zabern.
 Hawass, Z. (1995) ‘A Group of Unique Statues Discovered at Giza’, in Kunst des
 Alten Reiches: Symposium im Deutschen Archäologischen Institut Kairo am 29.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 31
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 30
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+31
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 und 30. Oktober 1991, pp. 91–101. Deutsches Archäologisches Institut, Abteilung
 Kairo, Sonderschrift 28. Mainz: Philipp von Zabern.
 Helck, W. (1957) Zur Verwaltung des Mittleren und Neuen Reiches. Probleme der
 Ägyptologie 3. Leiden: E.J. Brill.
 Helck, W. (1962) ‘Soziale Stellung und Grablage (Bemerkungen zur thebanischen
 Nekropole)’, Journal of the Economic and Social History of the Orient 5: 225–43.
-Helck, W. (1972) ‘Zur Frage der Entstehung der ägyptischen “Literatur” ’, Wiener
+Helck, W. (1972) ‘Zur Frage der Entstehung der ägyptischen “Literatur”’, Wiener
 Zeitschrift für die Kunde des Morgenlands 63–4: 6–26.
 Ikram, S. and A. Dodson (1998) The Mummy in Ancient Egypt: Equipping the Dead
 for Eternity. London: Thames and Hudson.
@@ -1432,7 +1225,8 @@ Jansen-Winkeln, K. (1995) ‘Die Plünderung der Königsgräber des Neuen Reiche
 Zeitschrift für Ägyptische Sprache und Altertumskunde 122: 62–78.
 Jasnow, R. and G. Vittmann (1992/93) ‘An Abnormal Hieratic Letter to the Dead
 (P. Brooklyn 37.1799 E)’, Enchoria 19/20: 23–43.
-Junker, H. (1955a) ‘Ein neuer Nachweis des Weisen Ddfh.r’, in Studi in Memoria di
+Junker, H. (1955a) ‘Ein neuer Nachweis des Weisen Ddfh
+. r’, in Studi in Memoria di
 Ippolito Rosellini nel primo centenario della morte (4. Giugno 1843–4 giugno
 1943), II, pp. 133–40. Pisa: Lischi.
 Junker, H. (1955b) Gîza XII. Denkschriften der Österreichischen Akademie der
@@ -1440,14 +1234,17 @@ Wissenschaften 75, 2. Vienna: Rudolf M. Rohrer.
 Kaiser, W. and G. Dreyer (1982) ‘Umm El-Qaab: Nachuntersuchungen im
 frühzeitlichen Königsfriedhof, 2. Vorbericht’, Mitteilungen des Deutschen
 Archäologischen Instituts, Abteilung Kairo 38: 211–69.
-Kampp-Seyfried, F. (1994) ‘Vierter Vorbericht über die Arbeiten des Ägyptologischen Instituts der Universität Heidelberg in thebanischen Gräbern der Ramessidenzeit’, Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo
+Kampp-Seyfried, F. (1994) ‘Vierter Vorbericht über die Arbeiten des Ägyptologi-
+schen Instituts der Universität Heidelberg in thebanischen Gräbern der Rames-
+sidenzeit’, Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo
 50: 175–88.
 Kampp-Seyfried, F. (1996) Die Thebanische Nekropole: zum Wandel des
 Grabgedankens von der XVIII. bis zur XX. Dynastie. Theben 13. 2 vols. Mainz:
 Philipp von Zabern.
 Kemp, B.J. (1968) ‘Merimda and the Theory of House Burial in Prehistoric Egypt’,
 Chronique d’Egypte 43: 22–33.
-Kemp, B.J. (1975) ‘Abydos’, in W. Helck and E. Otto (eds) Lexikon der Ägyptologie, I, cols. 28–41. Wiesbaden: Otto Harrassowitz.
+Kemp, B.J. (1975) ‘Abydos’, in W. Helck and E. Otto (eds) Lexikon der Ägyptolo-
+gie, I, cols. 28–41. Wiesbaden: Otto Harrassowitz.
 Kemp, B.J. (1989) Ancient Egypt: Anatomy of a Civilization. London and New York:
 Routledge.
 Lacovara, P. (1981) ‘The Hearst Excavations at Deir el-Ballas: The Eighteenth
@@ -1458,26 +1255,16 @@ Lacovara, P. (1988) ‘Funerary Architecture’, in S. D’Auria, P. Lacovara an
 Roehrig (eds) Mummies and Magic: The Funerary Arts of Ancient Egypt, pp.
 20–5. Boston, MA: Museum of Fine Arts.
 Lapp, G. (1986) Die Opferformel des Alten Reiches, unter Berücksichtigung einiger
-späterer Formen. Deutsches Archäologisches Institut, Abteilung Kairo, Sonderschrift 21. Mainz: Philipp von Zabern.
+späterer Formen. Deutsches Archäologisches Institut, Abteilung Kairo, Sonder-
+schrift 21. Mainz: Philipp von Zabern.
 Leahy, A. (1977) ‘The Osiris “Bed” Reconsidered’, Orientalia 46: 424–34.
 Leahy, A. (1984) ‘Miscellanea: Death by Fire in Ancient Egypt’, Journal of the
 Economic and Social History of the Orient 27: 199–206.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-31
-
-01 Baines (JG/d)
-
-32
-
-8/1/02
-
-1:05 pm
-
-Page 32
-
-Journal of Social Archaeology 2(1)
+01 Baines (JG/d) 8/1/02 1:05 pm Page 31
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+32 Journal of Social Archaeology 2(1)
 Leahy, A. (1989) ‘A Protective Measure at Abydos in the Thirteenth Dynasty’,
 Journal of Egyptian Archaeology 75: 41–60.
 Lefebvre, G. (1924) Le tombeau de Petosiris I. Service des Antiquités de l’Egypte.
@@ -1490,28 +1277,35 @@ Lichtheim, M. (1973–80) Ancient Egyptian Literature: A Book of Readings. 3 vol
 Berkeley, CA: University of California Press.
 Mariette, A. (1880) Catalogue général des monuments d’Abydos découverts pendant
 les fouilles de cette ville. Paris: Imprimerie Nationale.
-Martin, G.T. (1978) ‘Excavations at the Memphite Tomb of Horemheb 1977: Preliminary Report’, Journal of Egyptian Archaeology 64: 5–9.
+Martin, G.T. (1978) ‘Excavations at the Memphite Tomb of Horemheb 1977: Pre-
+liminary Report’, Journal of Egyptian Archaeology 64: 5–9.
 Martin, G.T. (1991) The Hidden Tombs of Memphis: New Discoveries from the Time
 of Tutankhamun and Ramesses the Great. London: Thames and Hudson.
 McDowell, A.G. (1999) Village Life in Ancient Egypt: Laundry Lists and Love
 Songs. Oxford: Oxford University Press.
 Meskell, L. (1997) ‘Egyptian Social Dynamics: The Evidence of Age, Sex and Class
-in Domestic and Mortuary Contexts’, PhD dissertation, Department of Archaeology, University of Cambridge.
-Meskell, L. (1999a) ‘Archaeologies of Life and Death’, American Journal of Archaeology 103: 181–99.
+in Domestic and Mortuary Contexts’, PhD dissertation, Department of Archae-
+ology, University of Cambridge.
+Meskell, L. (1999a) ‘Archaeologies of Life and Death’, American Journal of Archae-
+ology 103: 181–99.
 Meskell, L. (1999b) Archaeologies of Social Life: Age, Sex, Class etc. in Ancient
 Egypt. Oxford: Blackwell.
 Metcalf, P. and R. Huntington (1991) Celebrations of Death: The Anthropology of
 Mortuary Ritual, 2nd edn. Cambridge: Cambridge University Press.
 Montet, P. (1947–60) La nécropole royale de Tanis [The royal necropolis of Tanis].
 3 vols. Paris: n.p.
-Montserrat, D. and L. Meskell (1997) ‘Mortuary Archaeology and Religious Landscape at Graeco-Roman Deir el-Medina’, Journal of Egyptian Archaeology 83:
+Montserrat, D. and L. Meskell (1997) ‘Mortuary Archaeology and Religious Land-
+scape at Graeco-Roman Deir el-Medina’, Journal of Egyptian Archaeology 83:
 179–97.
-Morris, I. (1987) Burial and Ancient Society: The Rise of the Greek City-State. Cambridge: Cambridge University Press.
-Morris, I. (1992) Death-Ritual and Social Structure in Classical Antiquity. Cambridge: Cambridge University Press.
+Morris, I. (1987) Burial and Ancient Society: The Rise of the Greek City-State. Cam-
+bridge: Cambridge University Press.
+Morris, I. (1992) Death-Ritual and Social Structure in Classical Antiquity. Cam-
+bridge: Cambridge University Press.
 Morschauser, S. (1991) Threat-Formulae in Ancient Egypt: A Study of the History,
 Structure and Use of Threats and Curses in Ancient Egypt. Baltimore, MD: Halgo.
 Moussa, A.M. and H. Altenmüller (1977) Das Grab des Nianchchnum und
-Khnumhotep. Deutsches Archäologisches Institut, Abteilung Kairo, Archäologische Veröffentlichungen 21. Mainz: Philipp von Zabern.
+Khnumhotep. Deutsches Archäologisches Institut, Abteilung Kairo, Archäolo-
+gische Veröffentlichungen 21. Mainz: Philipp von Zabern.
 Münch, H.-H. (1997) ‘Gräber–Spiegel des Lebens? Untersuchung zur Verteilung
 des funerären Aufwands anhand geschlossener Funde des Alten Reiches aus der
 Nekropole von Giza’. MA dissertation, Faculty of Historical and Philological
@@ -1519,25 +1313,17 @@ Sciences, University of Göttingen.
 O’Connor, D. (1972) ‘A Regional Population in Egypt to circa 600 BC’, in B.
 Spooner (ed.) Population Growth: Anthropological Implications, pp. 78–100.
 Cambridge, MA: MIT Press.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 33
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 32
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+33
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 O’Connor, D. (1974) ‘Political Systems and Archaeological Data in Egypt:
 2600–1780 BC’, World Archaeology 6: 15–37.
 O’Connor, D. (1985) ‘The “Cenotaphs” of the Middle Kingdom at Abydos’, in P.
-Posener-Kriéger (ed.) Mélanges Gamal Eddin Mokhtar, II: pp. 161–77. Bibliothèque d’Etude 97. Cairo: Institut Français d’Archéologie Orientale.
+Posener-Kriéger (ed.) Mélanges Gamal Eddin Mokhtar, II: pp. 161–77. Biblio-
+thèque d’Etude 97. Cairo: Institut Français d’Archéologie Orientale.
 O’Connor, D. (1989) ‘New Funerary Enclosures (Talbezirke) of the Early Dynastic
 Period at Abydos’, Journal of the American Research Center in Egypt 25: 51–86.
 O’Connor, D. (1995) ‘The Social and Economic Organization of Ancient Egyptian
@@ -1574,25 +1360,18 @@ Cambridge University Press.
 Polz, D. (1990) ‘Bemerkungen zur Grabbenutzung in der Thebanischen Nekropole’,
 Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo 46: 310–36.
 Polz, D. (1995) ‘Dra‘ Abu el-Naga: die Thebanische Nekropole des frühen Neuen
-Reiches’, in J. Assmann, E. Dziobek, H. Guksch and F. Kampp (eds) Thebanische Beamtennekropolen: neue Perspektiven archäologischer Forchung: Internationales Symposion, Heidelberg, 9–13 Juni 1993, pp. 25–42. Studien zur
-Archäologie und Geschichte Altägyptens 12. Heidelberg: Heidelberger Orientverlag.
-Posener, G. (1958) ‘Les empreintes magiques de Gizeh et les morts dangereux’. Mitteilungen des Deutschen Archäologischen Instituts Abteilung Kairo 16: 252–70.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-33
-
-01 Baines (JG/d)
-
-34
-
-8/1/02
-
-1:05 pm
-
-Page 34
-
-Journal of Social Archaeology 2(1)
+Reiches’, in J. Assmann, E. Dziobek, H. Guksch and F. Kampp (eds) Thebanis-
+che Beamtennekropolen: neue Perspektiven archäologischer Forchung: Inter-
+nationales Symposion, Heidelberg, 9–13 Juni 1993, pp. 25–42. Studien zur
+Archäologie und Geschichte Altägyptens 12. Heidelberg: Heidelberger Orient-
+verlag.
+Posener, G. (1958) ‘Les empreintes magiques de Gizeh et les morts dangereux’. Mit-
+teilungen des Deutschen Archäologischen Instituts Abteilung Kairo 16: 252–70.
+01 Baines (JG/d) 8/1/02 1:05 pm Page 33
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+34 Journal of Social Archaeology 2(1)
 Posener, G. (1981) ‘Les ‘afārit dans l’ancienne Egypte’. Mitteilungen des Deutschen
 Archäologischen Instituts, Abteilung Kairo 37: 393–401.
 Posener, G. (1988) ‘Découverte de l’ancienne Egypte’, Bulletin de la Société
@@ -1615,7 +1394,8 @@ Reymond, E.A.E. (1963) ‘Worship of the Ancestor Gods at Edfu’, Chronique
 d’Egypte 38: 49–70.
 Richards, J.E. (2000) ‘Modified Order, Responsive Legitimacy, Redistributed
 Wealth: Egypt, 2260–1650 BC’, in J.E. Richards and M. Van Buren (eds) Order,
-Legitimacy, and Wealth in Ancient States, pp. 36–45. Cambridge: Cambridge University Press.
+Legitimacy, and Wealth in Ancient States, pp. 36–45. Cambridge: Cambridge Uni-
+versity Press.
 Richards, J.E. (forthcoming) ‘The Late Old Kingdom Landscape at Abydos, Egypt’,
 in Proceedings of the 8th International Congress of Egyptologists, Cairo, March
 2000. Cairo: American University in Cairo Press.
@@ -1639,37 +1419,33 @@ Schulman, A.R. (1969–70) ‘Some Notes on the Alleged “Fall” of Senenmut�
 of the American Research Center in Egypt 8: 29–48.
 Seidlmayer, S.J. (1987) ‘Gesellschaftliche Entwicklung im Übergang vom Alten zum
 Mittleren Reich: ein Beitrag zur Archäologie der Gräberfelder der Region
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-01 Baines (JG/d)
-
-8/1/02
-
-1:05 pm
-
-Page 35
-
-Baines & Lacovara
-
-Burial and the dead in ancient Egyptian society
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 34
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+35
+Baines & Lacovara Burial and the dead in ancient Egyptian society
 Qau–Matmar in der Ersten Zwischenzeit’, in W.V. Davies, J. Assmann and G.
 Burkard (eds) Problems and Priorities in Egyptian Archaeology, pp. 175–217.
 London: KPI.
 Seidlmayer, S.J. (1990) Gräberfelder aus dem Übergang von Alten zum Mittleren
-Reich: Studien zur Archäologie der Ersten Zwischenzeit. Studien zur Archäologie und Geschichte Altägyptens 1. Heidelberg: Heidelberger Orientverlag.
+Reich: Studien zur Archäologie der Ersten Zwischenzeit. Studien zur Archäolo-
+gie und Geschichte Altägyptens 1. Heidelberg: Heidelberger Orientverlag.
 Seidlmayer, S.J. (2001) ‘Die Ikonographie des Todes’, in H. Willems (ed.) Social
-Aspects of Funerary Culture in the Egyptian Old and Middle Kingdoms. Proceedings of the Symposium Held at Leiden, 6–7 June, 1996, pp. 205–53. Orientalia
+Aspects of Funerary Culture in the Egyptian Old and Middle Kingdoms. Pro-
+ceedings of the Symposium Held at Leiden, 6–7 June, 1996, pp. 205–53. Orientalia
 Lovaniensia Analecta. Leuven: Peeters.
 Seidlmayer, S.J. (forthcoming) Elephantine XII: Ausgrabungen in der Nordweststadt
 von Elephantine 1979–82, ein Gräberfeld des Alten und Mittleren Reiches und
-andere Befunde. Deutsches Archäologisches Institut, Abteilung Kairo, Archäologische Veröffentlichungen. Mainz: Philipp von Zabern.
-Sethe, K. (1933) Urkunden des Alten Reiches I. Urkunden des Ägyptischen Altertums 1, 2nd edn. Leipzig: J.C. Hinrichs.
+andere Befunde. Deutsches Archäologisches Institut, Abteilung Kairo, Archäol-
+ogische Veröffentlichungen. Mainz: Philipp von Zabern.
+Sethe, K. (1933) Urkunden des Alten Reiches I. Urkunden des Ägyptischen Alter-
+tums 1, 2nd edn. Leipzig: J.C. Hinrichs.
 Simpson, W.K. (1974) The Terrace of the Great God at Abydos: The Offering Chapels
 of Dynasties 12 and 13. New Haven, CT, and Philadelphia, PA: Peabody Museum
 & University Museum.
-Simpson, W.K. (1991) ‘Mentuhotep, Vizier of Sesostris I, Patron of Art and Architecture’, Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo
+Simpson, W.K. (1991) ‘Mentuhotep, Vizier of Sesostris I, Patron of Art and Archi-
+tecture’, Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo
 47: 331–40.
 Smith, H.S. and D.G. Jeffreys (1979) ‘The “Anubieion”, North Saqqâra: Preliminary
 Report, 1977–1978’, Journal of Egyptian Archaeology 65: 17–29.
@@ -1678,58 +1454,55 @@ Report, 1978–9’, Journal of Egyptian Archaeology 66: 17–27.
 Spencer, A.J. (1982) Death in Ancient Egypt. Harmondsworth: Penguin Books.
 Spiegel, J. (n.d. [1935]) Die Idee vom Totengericht in der ägyptischen Religion.
 Leipziger Ägyptologische Studien 2. Glückstadt and Hamburg: J.J. Augustin.
-Spiegelberg, W. (1930) ‘Ntrw “Götter” = “Bilder” ’, Zeitschrift für Ägyptische
+Spiegelberg, W. (1930) ‘Ntrw “Götter” = “Bilder”’, Zeitschrift für Ägyptische
 Sprache und Altertumskunde 65: 119–21.
 Stadelmann, R. (1971) ‘Das Grab im Tempelhof: der Typus des Königsgrabes in der
 Spätzeit’, Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo
 27: 111–23.
-Stadelmann, R. (1997) Die ägyptischen Pyramiden: vom Ziegelbau zum Weltwunder. Kulturgeschichte der Antiken Welt 30, 3rd edn. Mainz: Philipp von Zabern.
+Stadelmann, R. (1997) Die ägyptischen Pyramiden: vom Ziegelbau zum Weltwun-
+der. Kulturgeschichte der Antiken Welt 30, 3rd edn. Mainz: Philipp von Zabern.
 Strudwick, N., and H.M. Strudwick (1996) The Tombs of Amenhotep, Khnummose,
 and Amenmose at Thebes. 2 vols. Oxford: Griffith Institute.
 Taylor, J.H. (2001) Death and the Afterlife in Ancient Egypt. London: British
 Museum Press.
-Thompson, D.J. (1988) Memphis under the Ptolemies. Princeton, NJ: Princeton University Press.
-Ward, W.A. (1977) ‘Neferh.otep and His Friends: A Glimpse at the Lives of Ordinary Men’, Journal of Egyptian Archaeology 63: 63–6.
+Thompson, D.J. (1988) Memphis under the Ptolemies. Princeton, NJ: Princeton Uni-
+versity Press.
+Ward, W.A. (1977) ‘Neferh
+.otep and His Friends: A Glimpse at the Lives of Ordi-
+nary Men’, Journal of Egyptian Archaeology 63: 63–6.
 Weill, R. (1938) ‘Ceux qui n’avaient pas de tombeau dans l’Egypte ancienne’, Revue
 de l’Histoire des Religions 118: 5–32.
 Wente, E.F. (1973) ‘A Ghost Story’, in W.K. Simpson (ed.) The Literature of Ancient
 Egypt, 2nd edn, pp. 137–41. New Haven, CT: Yale University Press.
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
-35
-
-01 Baines (JG/d)
-
-36
-
-8/1/02
-
-1:05 pm
-
-Page 36
-
-Journal of Social Archaeology 2(1)
+01 Baines (JG/d) 8/1/02 1:05 pm Page 35
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
+36 Journal of Social Archaeology 2(1)
 Wente, E.F. (1990) Letters from Ancient Egypt. Atlanta, GA: Scholars Press.
 Wildung, D. (1977) Egyptian Saints: Deification in Pharaonic Egypt. New York: New
 York University Press.
-Willems, H. (1988) Chests of Life: A Study of the Typology and Conceptual Development of Middle Kingdom Standard Class Coffins. Mededelingen en Verhandelingen van het Vooraziatisch-Egyptisch Genootschap “Ex Oriente Lux” 25.
+Willems, H. (1988) Chests of Life: A Study of the Typology and Conceptual Develop-
+ment of Middle Kingdom Standard Class Coffins. Mededelingen en Verhan-
+delingen van het Vooraziatisch-Egyptisch Genootschap “Ex Oriente Lux” 25.
 Leiden: Ex Oriente Lux.
-Wolf, W. (1957) Die Kunst Ägyptens: Gestalt und Geschichte. Stuttgart: Kohlhammer.
-
-JOHN BAINES is Professor of Egyptology, Faculty of Oriental Studies, University of Oxford. He is the author of Fecundity Figures and co-author with
-Jaromir Malek of Cultural Atlas of Ancient Egypt. His principal interests are
+Wolf, W. (1957) Die Kunst Ägyptens: Gestalt und Geschichte. Stuttgart: Kohlham-
+mer.
+JOHN BAINES is Professor of Egyptology,Faculty of Oriental Studies,Uni-
+versity of Oxford.He is the author of Fecundity Figures and co-author with
+Jaromir Malek of Cultural Atlas of Ancient Egypt.His principal interests are
 in the application of theoretical approaches to ancient Egyptian society,
 and in Egyptian high culture, focusing on art, religion, and literature.
 [john.baines@orinst.ox.ac.uk]
 PETER LACOVARA is Curator of Ancient Egyptian, Nubian and Near
 Eastern Art at the Michael C. Carlos Museum, Emory University, Atlanta.
-He is co-author of Mummies and Magic: The Funerary Arts of Ancient Egypt,
+He is co-author of Mummies and Magic:The Funerary Arts of Ancient Egypt,
 the catalogue presentation of a major exhibition of Egyptian attitudes to
 and treatments of death. He is also the author of The New Kingdom Royal
 City. His principal research interests are settlement archaeology and the
 material culture of Egypt and Nubia.
 [placova@emory.edu]
-
-Downloaded from http://jsa.sagepub.com at Oxford University Libraries on March 17, 2010
-
+01 Baines (JG/d) 8/1/02 1:05 pm Page 36
+at Oxford University Libraries on March 17, 2010
+http://jsa.sagepub.com
+Downloaded from
