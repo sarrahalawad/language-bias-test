@@ -1,7 +1,6 @@
 doc_id,language,raw_words,clean_words,kept_share,n_paragraphs
 de_maat_ausgabe_01_online,DE,19858,17650,0.889,130
 de_maat_ausgabe_02_online,DE,29922,27206,0.909,223
-de_maat_ausgabe_03_online,DE,11724,10342,0.882,90
 en_ancient_egyptian_funerary_tools_and_beliefs,EN,5522,4341,0.786,38
 en_burial_and_the_dead_in_ancient_egyptian_society,EN,14795,10113,0.684,45
 en_meskell_archaeologieslifedeath_1999,EN,12427,10116,0.814,38

@@ -27,13 +27,12 @@ LANGUAGES = ["DE", "EN"]
 OUT_DIR = ROOT / "data" / "processed"
 
 # Only the first German issues are used, so the German corpus is close in size
-# to the English one (DE issues 01-03: ~60k words vs EN: ~55k words).
+# to the English one after cleaning (DE issues 01-02: ~45k words vs EN: ~43k words).
 # Languages not listed here use every PDF in their folder.
 SELECTED_FILES = {
     "DE": [
         "Maat Ausgabe 01 Online.pdf",
         "Maat Ausgabe 02 Online.pdf",
-        "Maat Ausgabe 03 Online.pdf",
     ],
 }
 

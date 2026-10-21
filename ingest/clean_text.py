@@ -23,6 +23,7 @@ import collections
 import csv
 import json
 import re
+import shutil
 import unicodedata
 from pathlib import Path
 
@@ -44,10 +45,6 @@ DOC_RULES = {
     "de_maat_ausgabe_02_online": {
         # cover, membership form, imprint, back cover
         "drop_pages": [1, 43, 44, 45],
-    },
-    "de_maat_ausgabe_03_online": {
-        # cover, contents, imprint, DVD advert, back cover
-        "drop_pages": [1, 2, 42, 43, 44],
     },
     "en_ancient_egyptian_funerary_tools_and_beliefs": {
         "cut_from": r"^Acknowledg(e)?ments$",
@@ -258,6 +255,7 @@ def main():
                 m.lower() for m in re.findall(r"\w+-\w+", line))
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    shutil.rmtree(OUT_DIR / "text", ignore_errors=True)
     manifest = []
     with open(OUT_DIR / "documents.jsonl", "w", encoding="utf-8") as docs_out:
         for doc_id, lines in cleaned.items():
