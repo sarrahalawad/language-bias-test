@@ -1,17 +1,19 @@
-"""Step 4 of data ingestion: select the gold chunks that questions will be written for.
+"""Step 4 of data ingestion: select the candidate gold chunks that questions will be written for.
 
 Reads data/chunks/chunks.jsonl (step 3) and writes:
-  data/gold/gold_chunks.jsonl - the selected chunks with their selection scores
+  data/gold/candidates.jsonl - the candidate chunks, ranked per language (pool_rank 1 = best)
 
 A good gold chunk is running prose (not a caption, list or citation block), contains
 specific facts (names, numbers, dates) and is distinctive, i.e. its content is not
 repeated in other chunks of the same language. That way a question written from it
 can be answered from that chunk only.
 
-The same number of chunks is taken per language, spread over the documents in
-proportion to how many eligible chunks each document has. Chunks next to each other
-in a document are not both selected. Chunks found unsuitable on reading are listed
-in EXCLUDED with the reason.
+Every eligible chunk can become a candidate, except that chunks next to each other in a
+document are not both taken (the largest possible set without neighbours is kept). The
+pool is larger than the 60 facts per language the experiment needs, so chunks whose
+questions fail the checks or the manual review can be replaced. Question generation
+works through the pool in pool_rank order. Chunks found unsuitable on reading are
+listed in EXCLUDED with the reason.
 
 Usage:
     python ingest/select_gold_chunks.py
@@ -28,7 +30,6 @@ ROOT = Path(__file__).resolve().parent.parent
 IN_CHUNKS = ROOT / "data" / "chunks" / "chunks.jsonl"
 OUT_DIR = ROOT / "data" / "gold"
 
-GOLD_PER_LANGUAGE = 50
 MIN_WORDS, MAX_WORDS = 150, 320
 # chunks this similar to another chunk of the same language are not distinctive enough
 MAX_SIMILARITY = 0.35
@@ -67,7 +68,7 @@ def fact_density(text):
 
 def main():
     chunks = [json.loads(l) for l in open(IN_CHUNKS, encoding="utf-8")]
-    gold = []
+    candidates_all = []
     for lang in sorted({c["language"] for c in chunks}):
         lang_chunks = [c for c in chunks if c["language"] == lang]
         vectors = tfidf_vectors([tokenize(c["text"], lang) for c in lang_chunks])
@@ -81,37 +82,35 @@ def main():
                         and max_sim < MAX_SIMILARITY and c["chunk_index"] > 0
                         and c["chunk_id"] not in EXCLUDED)
             if eligible:
-                # favour fact-rich and distinctive chunks; on the German side every noun is
-                # capitalised, so facts are ranked within each language only
                 candidates.append({**c, "fact_density": round(facts, 2), "max_similarity": round(max_sim, 3),
                                    "noise_share": round(noise, 3), "score": facts * (1 - max_sim)})
 
         by_doc = collections.defaultdict(list)
         for c in candidates:
             by_doc[c["doc_id"]].append(c)
-        # proportional quota per document (largest remainder)
-        quotas = {d: GOLD_PER_LANGUAGE * len(cs) / len(candidates) for d, cs in by_doc.items()}
-        alloc = {d: int(q) for d, q in quotas.items()}
-        for d in sorted(quotas, key=lambda d: quotas[d] - alloc[d], reverse=True)[:GOLD_PER_LANGUAGE - sum(alloc.values())]:
-            alloc[d] += 1
-
+        pool = []
         for doc_id, cs in sorted(by_doc.items()):
+            # walking through the document in order and skipping direct neighbours gives
+            # the largest possible set of chunks without neighbours
             taken = []
-            for c in sorted(cs, key=lambda c: c["score"], reverse=True):
-                if len(taken) == alloc[doc_id]:
-                    break
-                if all(abs(c["chunk_index"] - t["chunk_index"]) > 1 for t in taken):
+            for c in sorted(cs, key=lambda c: c["chunk_index"]):
+                if not taken or c["chunk_index"] - taken[-1]["chunk_index"] > 1:
                     taken.append(c)
-            gold.extend(sorted(taken, key=lambda c: c["chunk_index"]))
-            print(f"{doc_id}: {len(cs)} eligible, {len(taken)} selected")
+            pool.extend(taken)
+            print(f"{doc_id}: {len(cs)} eligible, {len(taken)} without neighbours")
+        # favour fact-rich and distinctive chunks; on the German side every noun is
+        # capitalised, so facts are ranked within each language only
+        for rank, c in enumerate(sorted(pool, key=lambda c: c["score"], reverse=True), start=1):
+            c["pool_rank"] = rank
+        candidates_all.extend(sorted(pool, key=lambda c: c["pool_rank"]))
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    with open(OUT_DIR / "gold_chunks.jsonl", "w", encoding="utf-8") as f:
-        for c in gold:
+    with open(OUT_DIR / "candidates.jsonl", "w", encoding="utf-8") as f:
+        for c in candidates_all:
             c.pop("score")
             f.write(json.dumps(c, ensure_ascii=False) + "\n")
-    for lang, n in sorted(collections.Counter(c["language"] for c in gold).items()):
-        print(f"{lang}: {n} gold chunks")
+    for lang, n in sorted(collections.Counter(c["language"] for c in candidates_all).items()):
+        print(f"{lang}: {n} candidate chunks")
 
 
 if __name__ == "__main__":
