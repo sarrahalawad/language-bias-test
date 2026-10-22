@@ -8,11 +8,12 @@ specific facts (names, numbers, dates) and is distinctive, i.e. its content is n
 repeated in other chunks of the same language. That way a question written from it
 can be answered from that chunk only.
 
-Every eligible chunk can become a candidate, except that chunks next to each other in a
-document are not both taken (the largest possible set without neighbours is kept). The
-pool is larger than the 60 facts per language the experiment needs, so chunks whose
-questions fail the checks or the manual review can be replaced. Question generation
-works through the pool in pool_rank order. Chunks found unsuitable on reading are
+Every eligible chunk is a candidate. Tier 1 is the largest set of chunks with no two
+next to each other in a document; tier 2 holds the remaining eligible chunks (neighbours
+of tier 1 chunks) and is ranked after tier 1. The pool is larger than the 60 facts per
+language the experiment needs, so chunks whose questions fail the checks or the manual
+review can be replaced. Question generation works through the pool in pool_rank order;
+its uniqueness check makes sure a question is not also answered by a neighbouring chunk. Chunks found unsuitable on reading are
 listed in EXCLUDED with the reason.
 
 Usage:
@@ -88,7 +89,7 @@ def main():
         by_doc = collections.defaultdict(list)
         for c in candidates:
             by_doc[c["doc_id"]].append(c)
-        pool = []
+        tier1, tier2 = [], []
         for doc_id, cs in sorted(by_doc.items()):
             # walking through the document in order and skipping direct neighbours gives
             # the largest possible set of chunks without neighbours
@@ -96,13 +97,19 @@ def main():
             for c in sorted(cs, key=lambda c: c["chunk_index"]):
                 if not taken or c["chunk_index"] - taken[-1]["chunk_index"] > 1:
                     taken.append(c)
-            pool.extend(taken)
+                else:
+                    tier2.append(c)
+            tier1.extend(taken)
             print(f"{doc_id}: {len(cs)} eligible, {len(taken)} without neighbours")
-        # favour fact-rich and distinctive chunks; on the German side every noun is
-        # capitalised, so facts are ranked within each language only
-        for rank, c in enumerate(sorted(pool, key=lambda c: c["score"], reverse=True), start=1):
-            c["pool_rank"] = rank
-        candidates_all.extend(sorted(pool, key=lambda c: c["pool_rank"]))
+        # Tier 1 (no neighbours) is ranked first, tier 2 (neighbours of tier 1 chunks) after it.
+        # Within a tier, fact-rich and distinctive chunks come first; on the German side every
+        # noun is capitalised, so facts are ranked within each language only.
+        rank = 0
+        for tier, pool in ((1, tier1), (2, tier2)):
+            for c in sorted(pool, key=lambda c: c["score"], reverse=True):
+                rank += 1
+                c["pool_rank"], c["tier"] = rank, tier
+                candidates_all.append(c)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     with open(OUT_DIR / "candidates.jsonl", "w", encoding="utf-8") as f:
