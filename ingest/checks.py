@@ -53,6 +53,14 @@ def word_overlap(text, reference, lang):
     return sum(t in reference_tokens for t in tokens) / max(len(tokens), 1)
 
 
+def stem_overlap(text, reference, lang, stem=5):
+    """Like word_overlap, but words count as equal when their first `stem` letters match,
+    so German inflection ("Harz" ~ "Harzes", "verwendet" ~ "verwendeten") does not count as a miss."""
+    tokens = tokenize(text, lang)
+    reference_stems = {t[:stem] for t in tokenize(reference, lang)}
+    return sum(t[:stem] in reference_stems for t in tokens) / max(len(tokens), 1)
+
+
 def numbers(text):
     return sorted(re.findall(r"\d+", text))
 
